@@ -59,7 +59,7 @@ delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Conversational intelligent tutoring systems"
   - text: "Computational representations of meaning"
-  - text: "Dyadic interaction & engagement"
+  - text: "Dyadic interaction and engagement"
 
 me-img: "/img/jetpacktocat.png"
 
