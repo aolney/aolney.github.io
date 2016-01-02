@@ -17,7 +17,7 @@ baseurl: ""
 
 # Google tracking id to track your visitors
 
-google-tracking-id: "UA-35880426-4"
+google-tracking-id: "UA-7398920-6"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
@@ -32,8 +32,8 @@ force-https: True
 lang: "en"
 author: "Andrew M. Olney"
 title: "{ Andrew M. Olney }"
-description: "Blog and website of Andrew M. Olney, blogging mainly for tech. Opinions expressed are mine."
-keywords: "Olney, personal, jekyll, theme"
+description: "Blog and website of Andrew M. Olney. Opinions expressed are mine."
+keywords: "Olney, linguistics, computation, education, tutoring"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
 
@@ -57,8 +57,9 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "The lower you fall, the higher you'll fly."
-  - text: "Where’s your will to be weird?"
+  - text: "Conversational intelligent tutoring systems"
+  - text: "Computational representations of meaning"
+  - text: "Dyadic interaction & engagement"
 
 me-img: "/img/jetpacktocat.png"
 
@@ -96,7 +97,7 @@ pinterest-share: True
 pocket-share: True
 vkontakte-share: True
 
-disqus-shortname: "panossakkos"
+disqus-shortname: "andrewolney"
 
 syntax-highlight: True
 
