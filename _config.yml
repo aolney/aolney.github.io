@@ -43,8 +43,8 @@ favicon: "/img/favicon.ico"
 
 black-favicon: "/img/black-lab-glass.ico"
 
-#background-img: "../img/intro-bg.jpg"
-background-img: "../img/GuruMax8.9.jpg"
+background-img: "../img/intro-bg.jpg"
+#background-img: "../img/GuruMax8.9.jpg"
 
 ##############################
 # Dynamic Text on the Header #
