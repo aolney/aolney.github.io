@@ -23,7 +23,7 @@ google-tracking-id: "UA-7398920-6"
 # If you are not hosted on Github Pages, and your host doesn't support https
 # then you should disable it
 
-force-https: True
+force-https: False
 
 #############
 # HTML Head #
@@ -44,7 +44,7 @@ favicon: "/img/favicon.ico"
 black-favicon: "/img/black-lab-glass.ico"
 
 #background-img: "../img/intro-bg.jpg"
-background-img: "../img/GuruMax8.9-blur.jpg"
+background-img: ""
 
 ##############################
 # Dynamic Text on the Header #
@@ -64,6 +64,10 @@ lines: # You can add HTML Tags in the Text
 
 #me-img: "/img/jetpacktocat.png"
 me-img: "/img/photo.jpg"
+me-proj-1: "/img/pkd.jpg"
+me-proj-2: "/img/elmo.jpg"
+me-proj-3: "/img/turing.jpg"
+me-proj-4: "/img/anita.jpg"
 
 ################
 # Web app mode #
@@ -108,22 +112,25 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/sussex.png"
-    date: "September 2013 - Today"
-    description: "Saving the neighborhood!"
+  - image: "/img/timeline/memphis1.png"
+    date: "2001 - 2006"
+    description: "PhD Computer Science, University of Memphis"
   - image: "/img/timeline/sussex.jpg"
-    date: "September 2007 - August 2013"
-    description: "Started coding"
+    date: "1998 - 2001"
+    description: "MSc Evolutionary and Adaptive Systems, University of Sussex"
+  - image: "/img/timeline/ucl.png"
+    date: "1995 - 1998"
+    description: "BA Linguistics with Cognitive Science, University College London"
 
 # First image of the Timeline
 
-timeline-img: "/img/timeline/ucl.jpg"
+timeline-img: "/img/timeline/start.png"
 
 ###########
 # Contact #
 ###########
 
-email: "aolney@memphis.edu"
+email: "aolney (at) memphis (dot) edu"
 
 ##################
 # Social Buttons #
