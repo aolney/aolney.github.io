@@ -58,9 +58,10 @@ type-speed: 10
 start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
-  - text: "Conversational intelligent tutoring systems"
-  - text: "Computational representations of meaning"
-  - text: "Dyadic interaction and engagement"
+  - text: "This site is under construction"
+#  - text: "Conversational intelligent tutoring systems"
+#  - text: "Computational representations of meaning"
+#  - text: "Dyadic interaction and engagement"
 
 #me-img: "/img/jetpacktocat.png"
 me-img: "/img/photo.jpg"
@@ -127,6 +128,21 @@ events:
 timeline-img: "/img/timeline/start.png"
 
 ###########
+# Students#
+###########
+people:
+ - pic: "/img/team/borhan.jpg"
+   name: Borhan Samei
+   position: Ph.D. Candidate, Computer Science
+   social:
+     - title: twitter
+       url: #
+     - title: facebook
+       url: #
+     - title: stack-overflow
+       url: #
+
+###########
 # Contact #
 ###########
 
@@ -162,8 +178,11 @@ social:
 
 pages_list:
   About: 'about'
+  Work: 'work'
   Blog: 'latest-post'
-  Timeline: 'timeline'
+# Have an idea to show development as scientist (e.g. RNN during UG) but not a lot of time now
+#  Timeline: 'timeline'
+  Students: 'students'
   Contact: 'contact'
 
 # Exclusion list from the generated _site
