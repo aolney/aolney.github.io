@@ -128,39 +128,60 @@ events:
 timeline-img: "/img/timeline/start.png"
 
 ###########
+# Work    #
+###########
+
+teaching: "Classes at the undergraduate and graduate level involving cognitive science and computational modeling. Also graduate student mentorship in grant-sponsored research."
+research: "Task-oriented natural langugage interfaces with specific focus on conversational intelligent tutoring systems, computational representations of meaning, and dyadic interaction and engagement."
+service: "Director of the Insitute for Intelligent Systems, Coordinator for the Cognitive Science Graduate Certificate, and Coordinator for the Undergraduate Minor in Cognitive Science. Also community outreach and service to the field."
+
+teaching-link: "/tags/teaching.html"
+research-link: "/tags/research.html"
+service-link: "/tags/service.html"
+
+###########
 # Students#
 ###########
 people:
  - pic: "/img/team/borhan.jpg"
+   link: "https://plus.google.com/118424456688736358978"
    name: Borhan Samei
    position: Ph.D. Candidate, Computer Science
    social:
-     - title: twitter
-       url: #
-     - title: facebook
-       url: #
-     - title: stack-overflow
-       url: #
+     - title: google-plus
+       url: "https://plus.google.com/118424456688736358978"
+     - title: linkedin
+       url: http://ir.linkedin.com/pub/borhan-samei/56/738/91
+ - pic: "/img/team/rosetta.jpg"
+   link: "/tags/advising.html"
+   name: Former Students
+
+
+recruit-message: "If you are interested in working with me, please send me an email. [Here is some general advice for students](/category/2016/01/08/student-advice.html)"
 
 ###########
 # Contact #
 ###########
 
-email: "aolney (at) memphis (dot) edu"
+email: "aolney@memphis.edu"
 
 ##################
 # Social Buttons #
 ##################
 
 social:
-  - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
+#  - title: "facebook"
+#    url: "https://facebook.com/"
+  - title: "linkedin"
+    url: "https://www.linkedin.com/in/andrewolney"
+#  - title: "twitter"
+#    url: "https://twitter.com/"
   - title: "github"
-    url: "https://github.com/PanosSakkos/personal-jekyll-theme"
-  - title: "bitcoin"
-    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
+    url: "https://github.com/aolney"
+  - title: "stack-overflow"
+    url: "http://stackoverflow.com/users/343550/andrew-olney"
+#  - title: "bitcoin"
+#    url: "https://blockchain.info/address/1LHuKC9Em3KA5yoZaf7nngnNdf9K7s2gSi"
   - title: "rss"
     url: "/feed.xml"
 

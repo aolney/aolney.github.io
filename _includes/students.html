@@ -12,10 +12,12 @@
                 {% for member in site.people %}
                 <div class="col-sm-4">
                     <div class="team-member">
+			<a href="{{ member.link }}">
                         <img src="{{ member.pic }}" class="img-responsive img-circle" alt="">
                         <h4>{{ member.name }}</h4>
                         <!-- <p class="text-muted">{{ member.position }}</p> -->
 			<p>{{ member.position }}</p>
+			</a>
                         <ul class="list-inline social-buttons">
                             {% for network in member.social %}
                             <li>
@@ -29,18 +31,11 @@
                     </div>
                 </div>
                 {% endfor %}
-		<div class="col-sm-4">
-                    <span class="fa-stack fa-4x">
-                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <i class="fa fa-child fa-stack-1x fa-inverse"></i>
-                    </span>
-		<h4>Previous Students: LINK TO TAG PAGE</h4>
-		</div>
             </div>
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
 <!-- <p class="large text-muted"> -->
-                    <p class="large">If you are interested in working with me, please send me an email. LINK TO BLOG ADVICE FOR STUDENTS HERE</p>
+                    <p class="large">{{ site.recruit-message | markdownify}}</p>
                 </div>
             </div>
         </div>
