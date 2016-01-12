@@ -1,0 +1,16 @@
+---
+layout: post
+section-type: post
+title: INSERT HERE
+category: Category
+tags: [ 'research', 'publications', 'article' ]
+---
+Graesser, A. C., Lu, S., Jackson, G. T., Mitchell, H., Ventura, M., Olney, A., & Louwerse, M. M. (2004). AutoTutor: A tutor with dialogue in natural language. Behavioral Research Methods, Instruments, and Computers, 36, 180-193. paper
+
+<object data="https://umdrive.memphis.edu/aolney/public/publications/INSERTHERE" type="application/pdf" width="100%" height="600px">
+ 
+  <p>It appears you don't have a PDF plugin for this browser.
+  No biggie... you can <a href="https://umdrive.memphis.edu/aolney/public/publications/INSERTHERE">click here to
+  download the PDF file.</a></p>
+  
+</object>

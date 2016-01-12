@@ -1,0 +1,16 @@
+---
+layout: post
+section-type: post
+title: INSERT HERE
+category: Category
+tags: [ 'research', 'publications', 'chapter' ]
+---
+Olney, A. M. (2014). Scaffolding Made Visible. In R. Sottilare, A. Graesser, X. Hu, & B. Goldberg (Eds.), Design Recommendations for Intelligent Tutoring Systems, Vol. 2 of Adaptive Tutoring, (pp. 327-340). Orlando: U.S. Army Research Laboratory. paper
+
+<object data="https://umdrive.memphis.edu/aolney/public/publications/INSERTHERE" type="application/pdf" width="100%" height="600px">
+ 
+  <p>It appears you don't have a PDF plugin for this browser.
+  No biggie... you can <a href="https://umdrive.memphis.edu/aolney/public/publications/INSERTHERE">click here to
+  download the PDF file.</a></p>
+  
+</object>
