@@ -1,16 +1,16 @@
 ---
 layout: post
 section-type: post
-title: INSERT HERE
+title: The context dependent sentence abstraction model
 category: Category
-tags: [ 'research', 'publications', 'conference-regular' ]
+tags: [ 'research', 'publications', 'conference-regular','nlp','semantics' ]
 ---
-Ventura, M. J., Hu, X., Graesser, A. C., Louwerse, M. M., & Olney, A. (2004). The context dependent sentence abstraction model. In K. D. Forbus, D. Gentner, & T. Regier (Eds.), Proceedings of the 26rd Annual Meeting of the Cognitive Science Society (pp. 1387–1392). Mahwah, NJ: Erlbaum. paper
+Ventura, M. J., Hu, X., Graesser, A. C., Louwerse, M. M., & Olney, A. (2004). The context dependent sentence abstraction model. In K. D. Forbus, D. Gentner, & T. Regier (Eds.), Proceedings of the 26rd Annual Meeting of the Cognitive Science Society (pp. 1387–1392). Mahwah, NJ: Erlbaum. 
 
-<object data="https://umdrive.memphis.edu/aolney/public/publications/INSERTHERE" type="application/pdf" width="100%" height="600px">
+<object data="https://umdrive.memphis.edu/aolney/public/publications/The%20context%20dependent%20sentence%20abstraction%20model-olney_publications.pdf" type="application/pdf" width="100%" height="600px">
  
   <p>It appears you don't have a PDF plugin for this browser.
-  No biggie... you can <a href="https://umdrive.memphis.edu/aolney/public/publications/INSERTHERE">click here to
+  No biggie... you can <a href="https://umdrive.memphis.edu/aolney/public/publications/The%20context%20dependent%20sentence%20abstraction%20model-olney_publications.pdf">click here to
   download the PDF file.</a></p>
   
 </object>
