@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Large-scale latent semantic analysis
 category: Category
-tags: [ 'research', 'publications', 'article','semantics','nlp','lsa' ]
+tags: [ 'research', 'publications', 'article','semantics','nlp' ]
 ---
 Olney, A. M. (2011). Large-scale latent semantic analysis. Behavior Research Methods, 43(2), 414-423. 
 
