@@ -57,11 +57,10 @@ loop-count: False # Set False for infinite loop, or set any number for finite lo
 type-speed: 10
 start-delay: 200
 delete-delay: 5000
-lines: # You can add HTML Tags in the Text
-  - text: "This site is under construction"
-#  - text: "Conversational intelligent tutoring systems"
-#  - text: "Computational representations of meaning"
-#  - text: "Dyadic interaction and engagement"
+lines: # You can add HTML Tags in the Text #  - text: "This site is under construction"
+  - text: "Conversational intelligent tutoring systems"
+  - text: "Computational representations of meaning"
+  - text: "Dyadic interaction and engagement"
 
 #me-img: "/img/jetpacktocat.png"
 me-img: "/img/photo.jpg"
