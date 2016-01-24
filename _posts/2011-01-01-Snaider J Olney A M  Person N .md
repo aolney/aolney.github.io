@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Nonverbal Action Selection for Explanations Using an Enhanced Behavior Net
 category: Category
-tags: [ 'research', 'publications', 'conference-regular','agent','guru','discourse' ]
+tags: ['research','publications','conference-regular','agents','guru','discourse']
 ---
 Snaider, J., Olney, A. M., & Person, N. (2011). Nonverbal Action Selection for Explanations Using an Enhanced Behavior Net. In H. H. Vilhjálmsson, S. Kopp, S. Marsella, & K. R. Thórisson (Eds.), Intelligent Virtual Agents, Lecture Notes in Computer Science (Vol. 6895, pp. 141–147). Springer. 
 
