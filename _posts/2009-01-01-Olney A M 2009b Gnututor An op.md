@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Gnututor - An open source intelligent tutoring system
 category: Category
-tags: [ 'research', 'publications', 'conference-short','its','education' ]
+tags: [ 'research', 'publications', 'conference-short','its','education','gnututor' ]
 ---
 Olney, A. M. (2009b). Gnututor: An open source intelligent tutoring system. Proceedings of the 14th International Conference on Artificial Intelligence in Education (p. 803). Brighton UK: Amsterdam: IOS Press.
 

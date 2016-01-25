@@ -18,7 +18,7 @@
                     <h4 class="service-heading">Teaching</h4>
 		</a>
 <!-- <p class="text-muted"> -->
-                    <p>{{ site.teaching }}</p>
+                    <p>{{ site.teaching | markdownify }}</p>
                 </div>
                 <div class="col-md-4">
 		<a href="{{site.baseurl}}{{ site.research-link }}">
@@ -29,7 +29,7 @@
                     <h4 class="service-heading">Research</h4>
 		</a>
 <!-- <p class="text-muted"> -->
-                    <p>{{ site.research }}</p>
+                    <p>{{ site.research | markdownify }}</p>
                 </div>
                 <div class="col-md-4">
 		<a href="{{site.baseurl}}{{ site.service-link }}">
@@ -40,7 +40,7 @@
                     <h4 class="service-heading">Service</h4>
 		</a>
 <!-- <p class="text-muted"> -->
-                    <p>{{ site.service }}</p>
+                    <p>{{ site.service | markdownify }}</p>
                 </div>
             </div>
         </div>
