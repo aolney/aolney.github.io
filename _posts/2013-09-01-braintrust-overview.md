@@ -7,7 +7,7 @@ tags: ['research','its','braintrust','nlp','semantics','discourse','education','
 ---
 BrainTrust is an NSF-funded project that attempts to solve the knowledge engineering bottleneck for intelligent tutoring systems.
 
-[Click here for all BrainTrust posts]({{ site.baseurl }}/tags/braintrust.html)
+[Click here for all BrainTrust posts]({{ .page.site.baseurl }}/tags/braintrust.html)
 
 When a student navigates to an online textbook, the BrainTrust browser generates a virtual student.
 
