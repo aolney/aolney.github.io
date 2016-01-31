@@ -7,7 +7,7 @@ tags: ['research','its','guru','nlp','semantics','discourse','education','agents
 ---
 The Guru project developed an expert computer tutor modeled on the strategies and dialogue of expert human tutors. 
 
-[Click here for all Guru posts]({{ site.baseurl }}/tags/guru.html)
+[Click here for all Guru posts](/tags/guru.html)
 
 <iframe title="YouTube video player" class="youtube-player" type="text/html" src="//www.youtube.com/embed/fFPvxhKdmg0?rel=0&amp;wmode=opaque" allowfullscreen="true" frameborder="0" height="355" width="425"></iframe>
 

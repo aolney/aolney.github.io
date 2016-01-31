@@ -8,7 +8,7 @@ tags: ['research','its','gnututor','nlp','semantics','discourse','education','ag
 
 ![gnututor logo](https://umdrive.memphis.edu/aolney/public/website-media/gnututor3.jpg)
 
-[Click here for all GnuTutor posts]({{ site.baseurl }}/tags/gnututor.html)
+[Click here for all GnuTutor posts](/tags/gnututor.html)
 
 GnuTutor is an open source re-imagining of the intelligent tutoring system AutoTutor developed at the Institute for Intelligent Systems at the University of Memphis. GnuTutor has a simple codebase to foster development of derivative ITS.
 

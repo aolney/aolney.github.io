@@ -5,7 +5,7 @@ title: CLASS5 Project Overview
 category: Category
 tags: ['research','nlp','discourse','education','class5','project-overviews']
 ---
-[Click here for all CLASS5 posts]({{ site.baseurl }}/tags/class5.html)
+[Click here for all CLASS5 posts](/tags/class5.html)
 
 Marty Nystrand (University of Wisconsin, Madison) have found that certain kinds of classroom discussion lead to increased student achievement.
 

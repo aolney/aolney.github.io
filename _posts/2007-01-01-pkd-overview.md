@@ -7,7 +7,7 @@ tags: ['research','robots','pkd','nlp','semantics','discourse','project-overview
 ---
 ![project logo](https://umdrive.memphis.edu/aolney/public/projects/pkd/PKD_Header.jpg)
 
-[Click here for all PKD Android posts]({{ site.baseurl }}/tags/pkd.html)
+[Click here for all PKD Android posts](/tags/pkd.html)
 
 David Hanson and I collaborated on the PKD Android.
 
