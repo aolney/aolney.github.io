@@ -5,7 +5,7 @@ title: ONR STEM Grand Challenge - Project Overview
 category: Category
 tags: ['research','its','onr-grand-challenge','nlp','discourse','education','agents','project-overviews']
 ---
-[Click here for all ONR STEM Grand Challenge posts]({{site.url}}/tags/onr-grand-challenge.html)
+[Click here for all ONR STEM Grand Challenge posts]({{ site.baseurl }}/tags/onr-grand-challenge.html)
 
 ONR's STEM education Grand Challenge, an $8 million three-year initiative, is designed to spur innovation and creativity in the advancement of cost-effective digital tutors that tailor instruction to the individual needs and learning pace of students.
 

@@ -7,7 +7,7 @@ tags: ['research','its','autotutor','nlp','semantics','discourse','education','a
 ---
 ![pre 2001 autotutor image](https://umdrive.memphis.edu/aolney/public/projects/autotutor/marco.jpg)
 
-[Click here for all AutoTutor posts]({{ site.url }}/tags/autotutor.html)
+[Click here for all AutoTutor posts]({{ site.baseurl }}/tags/autotutor.html)
 
 AutoTutor is an intelligent tutoring system that teaches people by having a conversation with them.
 
