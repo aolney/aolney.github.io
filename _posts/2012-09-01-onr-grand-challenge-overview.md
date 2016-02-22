@@ -16,5 +16,5 @@ In the first phase, 4 teams worked on separate projects in different domains:
 3. University of Massachusetts
 4. Raytheon BBN Technologies
 
-In the second phase, we are working together on a single domain, electronics.
+In the second phase (ONR N00014-12-C-0643,ONR N00014-16-C-3027), we are working together on a single domain, electronics.
 
