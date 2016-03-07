@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Emerging Trends in Automated Authoring
 category: Category
-tags: [ 'research', 'publications','chapter','gift','its','education' ]
+tags: [ 'research', 'publications','chapter','gift','braintrust','nlp','discourse','its','education' ]
 ---
 Olney, A. M., Brawner, K., Pavlik, P., & Koedinger, K. R. (2015). Emerging Trends in Automated Authoring. Design recommendations for adaptive intelligent tutoring systems: Learner modeling, Vol. 3 of Adapive Tutoring (pp. 227-242). Orlando: U.S. Army Research Laboratory.
 
