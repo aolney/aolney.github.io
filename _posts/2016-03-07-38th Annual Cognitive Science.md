@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: 38th Annual Cognitive Science Society Meeting
 category: Category
-tags: [ 'service', 'reviewing' ]
+tags: [ 'service', 'reviewing', 'conferencereviewer' ]
 ---
-38th Annual Cognitive Science Society Meeting, 2016
+Serving as reviewer for 38th Annual Cognitive Science Society Meeting, 2016
 

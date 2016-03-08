@@ -5,5 +5,5 @@ title: 29th Meeting of the Cognitive Science Society.
 category: Category
 tags: [ 'service', 'reviewing', 'conferencereviewer' ]
 ---
-29th Meeting of the Cognitive Science Society, 2007.
+Serving as reviewer for 29th Meeting of the Cognitive Science Society, 2007.
 

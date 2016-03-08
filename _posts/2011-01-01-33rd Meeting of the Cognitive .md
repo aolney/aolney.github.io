@@ -5,5 +5,5 @@ title: 33rd Meeting of the Cognitive Science Society.
 category: Category
 tags: [ 'service', 'reviewing', 'programcommittee' ]
 ---
-33rd Meeting of the Cognitive Science Society, 2011.
+Serving on program committee for 33rd Meeting of the Cognitive Science Society, 2011.
 

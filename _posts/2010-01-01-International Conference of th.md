@@ -5,5 +5,5 @@ title: International Conference of the Florida Artificial Intelligence Research 
 category: Category
 tags: [ 'service', 'reviewing', 'programcommittee' ]
 ---
-International Conference of the Florida Artificial Intelligence Research Society, 2010.
+Serving on program committee for International Conference of the Florida Artificial Intelligence Research Society, 2010.
 

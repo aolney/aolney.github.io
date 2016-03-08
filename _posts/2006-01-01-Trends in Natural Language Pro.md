@@ -5,5 +5,5 @@ title: “Trends in Natural Language Processing,” Special Track at the Interna
 category: Category
 tags: [ 'service', 'reviewing', 'programcommittee' ]
 ---
-“Trends in Natural Language Processing,” Special Track at the International Conference of the Florida Artificial Intelligence Society, 2006.
+Serving on program committee for “Trends in Natural Language Processing,” Special Track at the International Conference of the Florida Artificial Intelligence Society, 2006.
 

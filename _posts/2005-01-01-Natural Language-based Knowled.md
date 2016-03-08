@@ -5,5 +5,5 @@ title: “Natural Language-based Knowledge Representations - New Perspectives”
 category: Category
 tags: [ 'service', 'reviewing', 'programcommittee' ]
 ---
-“Natural Language-based Knowledge Representations - New Perspectives” Special Track at the International Conference of the Florida Artificial Intelligence Society, 2005.
+Serving on program committee for “Natural Language-based Knowledge Representations - New Perspectives” Special Track at the International Conference of the Florida Artificial Intelligence Society, 2005.
 

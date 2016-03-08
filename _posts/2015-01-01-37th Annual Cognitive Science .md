@@ -5,5 +5,5 @@ title: 37th Annual Cognitive Science Society Meeting
 category: Category
 tags: [ 'service', 'reviewing', 'programcommittee' ]
 ---
-37th Annual Cognitive Science Society Meeting, 2015
+Serving on program committee for 37th Annual Cognitive Science Society Meeting, 2015
 

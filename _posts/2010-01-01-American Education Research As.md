@@ -5,5 +5,5 @@ title: American Education Research Association.
 category: Category
 tags: [ 'service', 'reviewing', 'conferencereviewer' ]
 ---
-American Education Research Association, 2010.
+Serving as reviewer for American Education Research Association, 2010.
 

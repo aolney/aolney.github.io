@@ -5,5 +5,5 @@ title: “Corpus Analysis of Natural Language Dialogue for Building ITSs,” Wor
 category: Category
 tags: [ 'service', 'reviewing', 'programcommittee' ]
 ---
-“Corpus Analysis of Natural Language Dialogue for Building ITSs,” Workshop at the International Conference on Artificial Intelligence in Education, 2011.
+Serving on program committee for “Corpus Analysis of Natural Language Dialogue for Building ITSs,” Workshop at the International Conference on Artificial Intelligence in Education, 2011.
 
