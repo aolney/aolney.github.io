@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: A Revised Algorithm for Latent Semantic Analysis
 category: Category
-tags: ['research','publications','conference-short','semantics','nlp','autotutor','its','education','discourse']
+tags: ['research','publications','conference-short','semantics','nlp','autotutor','its','education-research','discourse']
 ---
 Hu, X., Cai, Z., Louwerse, M., Olney, A., Penumatsa, P., Graesser, A. C., & TRG (2003). A Revised Algorithm for Latent Semantic Analysis. In G. Gottlob, & T. Walsh (Eds.), Proceedings of the Eighteenth International Joint Conference on Artificial Intelligence (pp. 1489–1491). San Francisco: Morgan Kaufmann. 
 

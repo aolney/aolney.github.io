@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Mining collaborative patterns in tutorial dialogues
 category: Category
-tags: [ 'research', 'publications', 'article','nlp','discourse','guru','education' ]
+tags: ['research','publications','article','nlp','discourse','guru','education-research']
 ---
 D’Mello, S., Olney, A. M., & Person, N. (2010). Mining collaborative patterns in tutorial dialogues. Journal of Educational Data Mining. 2(1), 1-37. 
 

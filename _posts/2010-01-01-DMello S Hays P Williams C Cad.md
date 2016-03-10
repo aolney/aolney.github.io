@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Collaborative lecturing by human and computer tutors
 category: Category
-tags: [ 'research', 'publications', 'conference-regular','guru','its','discourse','education' ]
+tags: ['research','publications','conference-regular','guru','its','discourse','education-research']
 ---
 D’Mello, S., Hays, P., Williams, C., Cade, W., Brown, J., & Olney, A. M. (2010). Collaborative lecturing by human and computer tutors. Intelligent Tutoring Systems, Lecture Notes in Computer Science (pp. 178–187). Berlin: Springer. 
 

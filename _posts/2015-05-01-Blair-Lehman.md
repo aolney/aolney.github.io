@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Blair Lehman Finished Degree
 category: Category
-tags: [ 'teaching', 'advising', 'committee', 'guru','boredom']
+tags: [ 'teaching', 'advising', 'committee', 'guru','engagement']
 ---
 Blair Lehman graduated with a Ph.D.  in Psychology!
 

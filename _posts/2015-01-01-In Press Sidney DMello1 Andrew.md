@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Multimodal Capture of Teacher-Student Interactions for Automated Dialogic Analysis in Live Classrooms
 category: Category
-tags: [ 'research', 'publications', 'conference-regular','class5','education','nlp','discourse' ]
+tags: ['research','publications','conference-regular','class5','education-research','nlp','discourse']
 ---
 D’Mello, S. K., Olney, A. M., Blanchard, N., Samei, B., Sun, X., Ward, B., & Kelly, S. (2015). Multimodal Capture of Teacher-Student Interactions for Automated Dialogic Analysis in Live Classrooms. In Proceedings of the 2015 ACM on International Conference on Multimodal Interaction (pp. 557–566). New York, NY, USA: ACM. http://doi.org/10.1145/2818346.2830602
 

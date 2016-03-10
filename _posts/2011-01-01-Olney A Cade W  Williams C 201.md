@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Generating Concept Map Exercises from Textbooks
 category: Category
-tags: [ 'research', 'publications', 'conference-regular','guru','nlp','semantics','its','education' ]
+tags: ['research','publications','conference-regular','guru','nlp','semantics','its','education-research']
 ---
 Olney, A., Cade, W., & Williams, C. (2011). Generating Concept Map Exercises from Textbooks. Proceedings of the Sixth Workshop on Innovative Use of NLP for Building Educational Applications (p. 111–119). Portland, Oregon: Association for Computational Linguistics. 
 

@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Interactive Concept Maps and Learning Outcomes in Guru
 category: Category
-tags: [ 'research', 'publications', 'conference-regular','guru','semantics','education','its' ]
+tags: ['research','publications','conference-regular','guru','semantics','education-research','its']
 ---
 Person, N., Olney A., D'Mello, S., & Lehman, B. (2012). Interactive Concept Maps and Learning Outcomes in Guru. Proceedings of the Twenty-Fifth International FLAIRS Conference, (pp. 456-461). Menlo Park, CA: AAAI Press. 
 

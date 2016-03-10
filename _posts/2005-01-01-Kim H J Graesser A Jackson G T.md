@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Computer simulation as an instructional technology in AutoTutor
 category: Category
-tags: ['research','publications','conference-short','autotutor','agents','education','its','discourse']
+tags: ['research','publications','conference-short','autotutor','agents','education-research','its','discourse']
 ---
 Kim, H. J., Graesser, A., Jackson, G. T., Olney, A., & Chipman, P. (2005a). Computer simulation as an instructional technology in AutoTutor. In C. Looi, G. McCalla, B. Bredeweg, & J. Breuker (Eds.), Artificial Intelligence in Education: Supporting Learning Through Intelligent and Socially Informed Technology (pp. 845–847). Amsterdam: IOS Press. 
 

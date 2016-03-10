@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: An exploration of off topic conversation
 category: Category
-tags: [ 'research', 'publications', 'conference-regular','guru','nlp','discourse','education' ]
+tags: ['research','publications','conference-regular','guru','nlp','discourse','education-research']
 ---
 Cade, W. L., Lehman, B. A., & Olney, A. (2010a, June). An exploration of off topic conversation. Human Language Technologies: The 2010 Annual Conference of the North American Chapter of the Association for Computational Linguistics (pp. 669–672). Los Angeles, California: Association for Computational Linguistics. 
 

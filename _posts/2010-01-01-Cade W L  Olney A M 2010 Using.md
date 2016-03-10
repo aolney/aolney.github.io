@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Using topic models to bridge coding schemes of differing granularity
 category: Category
-tags: [ 'research', 'publications', 'conference-short','guru','nlp','its','education','discourse' ]
+tags: ['research','publications','conference-short','guru','nlp','its','education-research','discourse']
 ---
 Cade, W. L., & Olney, A. M. (2010). Using topic models to bridge coding schemes of differing granularity. In R. Baker, A. Merceron, & P. J. Pavlik (Eds.), Proceedings of the International Conference on Educational Data Mining (pp. 281–282). 
 

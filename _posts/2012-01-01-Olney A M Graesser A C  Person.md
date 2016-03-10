@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Question Generation from Concept Maps
 category: Category
-tags: [ 'research', 'publications', 'article','nlp','discourse','education','semantics','guru','its' ]
+tags: ['research','publications','article','nlp','discourse','education-research','semantics','guru','its']
 ---
 Olney, A. M., Graesser, A. C., & Person, N. K. (2012). Question Generation from Concept Maps. Dialogue & Discourse, 3(2), 75-99. 
 

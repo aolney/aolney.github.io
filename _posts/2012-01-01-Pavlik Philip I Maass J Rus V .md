@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Facilitating Co-adaptation of Technology and Education through the Creation of an Open-source Repository of Interoperable Code
 category: Category
-tags: [ 'research', 'publications', 'conference-short','its','education','gift' ]
+tags: ['research','publications','conference-short','its','education-research','gift']
 ---
 Pavlik, Philip I., Maass, J., Rus, V. & Olney, A. (2012). Facilitating Co-adaptation of Technology and Education through the Creation of an Open-source Repository of Interoperable Code. Proceedings of the 11th International Conference on Intelligent Tutoring Systems, (pp. 677-678). Berlin: Springer. 
 

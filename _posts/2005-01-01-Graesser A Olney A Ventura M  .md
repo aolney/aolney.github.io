@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: AutoTutor’s coverage of expectations during tutorial dialogue
 category: Category
-tags: ['research','publications','conference-regular','autotutor','its','education','semantics','nlp','discourse']
+tags: ['research','publications','conference-regular','autotutor','its','education-research','semantics','nlp','discourse']
 ---
 Graesser, A., Olney, A., Ventura, M., & Jackson, G. T. (2005). AutoTutor’s coverage of expectations during tutorial dialogue. Proceedings of the Eighteenth International Florida Artificial Intelligence Research Society Conference (pp. 518–523). Menlo Park, CA: AAAI Press. 
 

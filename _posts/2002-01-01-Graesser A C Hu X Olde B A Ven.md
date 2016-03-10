@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Implementing latent semantic analysis in learning environments with conversational agents and tutorial dialog
 category: Category
-tags: ['research','publications','conference-short','autotutor','its','education','semantics','nlp','discourse']
+tags: ['research','publications','conference-short','autotutor','its','education-research','semantics','nlp','discourse']
 ---
 Graesser, A. C., Hu, X., Olde, B. A., Ventura, M., Olney, A., Louwerse, M., Franceschetti, D. R., & Person, N. K. (2002). Implementing latent semantic analysis in learning environments with conversational agents and tutorial dialog. In W. G. Gray, & C. D. Schunn (Eds.), Proceedings of the 24rd Annual Conference of the Cognitive Science Society (p. 37). Mahwah, NJ: Erlbaum. 
 

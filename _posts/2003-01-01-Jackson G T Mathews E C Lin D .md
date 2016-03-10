@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Modeling student performance to enhance the pedagogy of AutoTutor
 category: Category
-tags: ['research','publications','conference-regular','autotutor','its','education','discourse']
+tags: ['research','publications','conference-regular','autotutor','its','education-research','discourse']
 ---
 Jackson, G. T., Mathews, E. C., Lin, D., Olney, A., & Graesser, A. C. (2003). Modeling student performance to enhance the pedagogy of AutoTutor. In P. Brusilovsky, A. T. Corbett, & F. de Rosis (Eds.), User Modeling (pp. 368–372). Springer. 
 

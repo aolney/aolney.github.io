@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Extraction of concept maps from textbooks for domain modeling
 category: Category
-tags: [ 'research', 'publications', 'conference-short','guru','its','semantics','nlp','education' ]
+tags: ['research','publications','conference-short','guru','its','semantics','nlp','education-research']
 ---
 Olney, A. M. (2010). Extraction of concept maps from textbooks for domain modeling. Intelligent Tutoring Systems, Lecture Notes in Computer Science (pp. 390–392). Berlin: Springer. 
 

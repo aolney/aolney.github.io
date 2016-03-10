@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Guru Demo
 category: Category
-tags: [ 'research', 'its','guru','nlp','semantics','discourse','education','agents','demo' ]
+tags: ['research','its','guru','nlp','semantics','discourse','education-research','agents','demo']
 ---
 *The third (and current)* version of Guru. This video is very long!
 

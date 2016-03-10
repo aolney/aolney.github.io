@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Tutorial Dialog in Natural Language
 category: Category
-tags: [ 'research', 'publications', 'chapter','guru','its','discourse','nlp','education' ]
+tags: ['research','publications','chapter','guru','its','discourse','nlp','education-research']
 ---
 Olney, A. M., Graesser, A. C., & Person, N. K. (2010). Tutorial Dialog in Natural Language. In R. Nkambou, J. Bourdeau, & R. Mizoguchi (Eds.), Advances in Intelligent Tutoring Systems, Studies in Computational Intelligence (Vol. 308, pp. 181-206). Berlin: Springer-Verlag. 
 

@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: A framework of synthesizing tutoring conversation capability with web based distance education courseware
 category: Category
-tags: ['research','publications','article','autotutor','its','education','discourse']
+tags: ['research','publications','article','autotutor','its','education-research','discourse']
 ---
 Song, K., Hu, X., Olney, A., & Graesser, A. C. (2004). A framework of synthesizing tutoring conversation capability with web based distance education courseware. Computers & Education, 42(4), 375-388. 
 

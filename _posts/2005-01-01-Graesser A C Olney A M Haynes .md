@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: AutoTutor - A cognitive system that simulates a tutor that facilitates learning through mixed-initiative dialogue
 category: Category
-tags: ['research','publications','chapter','autotutor','its','discourse','nlp','semantics','education']
+tags: ['research','publications','chapter','autotutor','its','discourse','nlp','semantics','education-research']
 ---
 Graesser, A. C., Olney, A. M., Haynes, B. C., & Chipman, P. (2005). AutoTutor: A cognitive system that simulates a tutor that facilitates learning through mixed-initiative dialogue. In C. Forsythe, M. L. Bernard, & T. E. Goldsmith (Eds.), Cognitive systems: Human cognitive models in systems design. Mahwah,NJ: Erlbaum. 
 

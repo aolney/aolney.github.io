@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Off topic conversation in expert tutoring - Waste of time or learning opportunity?
 category: Category
-tags: [ 'research', 'publications', 'conference-regular','guru','discourse','engagement','education' ]
+tags: ['research','publications','conference-regular','guru','discourse','engagement','education-research']
 ---
 Lehman, B., Cade, W., & Olney, A. M. (2010). Off topic conversation in expert tutoring: Waste of time or learning opportunity? In R. Baker, A. Merceron, & P. J. Pavlik (Eds.), Proceedings of the 3rd International Conference on Educational Data Mining (pp. 101–110). 
 

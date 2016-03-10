@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: AutoTutor - An intelligent tutoring system with mixed-initiative dialogue
 category: Category
-tags: ['research','publications','article','autotutor','its','discourse','nlp','semantics','education']
+tags: ['research','publications','article','autotutor','its','discourse','nlp','semantics','education-research']
 ---
 Graesser, A. C., Chipman, P., Haynes, B., & Olney, A. (2005). AutoTutor: An intelligent tutoring system with mixed-initiative dialogue. IEEE Transactions on Education, 48(4), 612-618. 
 

@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: CLASS5 Project Overview
 category: Category
-tags: ['research','nlp','discourse','education','class5','project-overviews']
+tags: ['research','nlp','discourse','education-research','class5','project-overviews']
 ---
 [Click here for all CLASS5 posts](/tags/class5.html)
 

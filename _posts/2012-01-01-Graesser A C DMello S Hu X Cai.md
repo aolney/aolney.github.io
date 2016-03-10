@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: AutoTutor
 category: Category
-tags: ['research','publications','chapter','autotutor','its','discourse','nlp','education']
+tags: ['research','publications','chapter','autotutor','its','discourse','nlp','education-research']
 ---
 Graesser, A. C., D’Mello, S., Hu, X., Cai, Z., Olney, A., & Morgan, B. (2012). AutoTutor. In P. McCarthy, & C. Boonthum-Denecke (Eds.), Applied Natural Language Processing: Identification, Investigation and Resolution (pp. 169-187). IGI Global. 
 

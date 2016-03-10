@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: When are tutorial dialogues more effective than reading?
 category: Category
-tags: ['research','publications','article','autotutor','discourse','nlp','education','its']
+tags: ['research','publications','article','autotutor','discourse','nlp','education-research','its']
 ---
 VanLehn, K., Graesser, A. C., Jackson, G. T., Jordan, P., Olney, A. M., & Rose, C. (2007). When are tutorial dialogues more effective than reading? Cognitive Science, 31, 3-62. 
 

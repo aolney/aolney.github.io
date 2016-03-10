@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: BrainTrust Project Overview
 category: Category
-tags: ['research','its','braintrust','nlp','semantics','discourse','education','agents','project-overviews']
+tags: ['research','its','braintrust','nlp','semantics','discourse','education-research','agents','project-overviews']
 ---
 BrainTrust is an NSF-funded project that attempts to solve the knowledge engineering bottleneck for intelligent tutoring systems.
 

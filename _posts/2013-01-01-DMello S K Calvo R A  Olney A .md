@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Proceedings of the 6th International Conference on Educational Data Mining
 category: Category
-tags: [ 'research', 'publications', 'books','education','nlp' ]
+tags: ['research','publications','books','education-research','nlp']
 ---
 D’Mello, S. K., Calvo, R. A., & Olney, A. M. (Eds.). (2013). Proceedings of the 6th International Conference on Educational Data Mining.
 

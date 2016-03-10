@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Utterance classification in AutoTutor
 category: Category
-tags: ['research','publications','conference-regular','autotutor','its','nlp','discourse','education']
+tags: ['research','publications','conference-regular','autotutor','its','nlp','discourse','education-research']
 ---
 Olney, A., Louwerse, M., Mathews, E., Marineau, J., Hite-Mitchell, H., & Graesser, A. (2003). Utterance classification in AutoTutor. Proceedings of the HLT-NAACL 03 Workshop on Building Educational Applications Using Natural Language Processing (pp. 1–8). Philadelphia: Association for Computational Linguistics. 
 

@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Attention in Educational Contexts - The Role of the Learning Task in Guiding Attention
 category: Category
-tags: [ 'research', 'publications', 'engagement', 'chapter','education','csal' ]
+tags: ['research','publications','engagement','chapter','education-research','csal']
 ---
 Olney, A. M., Risko, E. F., D’Mello, S. K., & Graesser, A. C. (In Press). Attention in Educational Contexts: The Role of the Learning Task in Guiding Attention. In J. Fawcett, E. F. Risko, & A. Kingstone (Eds.), The Handbook of Attention. MIT Press.  paper
 

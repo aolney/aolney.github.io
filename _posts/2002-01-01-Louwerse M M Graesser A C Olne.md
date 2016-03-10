@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Good computational manners - Mixed-initiative dialog in conversational agents
 category: Category
-tags: ['research','publications','conference-regular','autotutor','discourse','agents','its','education']
+tags: ['research','publications','conference-regular','autotutor','discourse','agents','its','education-research']
 ---
 Louwerse, M. M., Graesser, A. C., Olney, A., & the Tutoring Research Group (2002). Good computational manners: Mixed-initiative dialog in conversational agents. In C. Miller (Ed.), Etiquette for Human-Computer Work: Papers from the AAAI Fall Symposium (pp. 71–76). AAAI Press. 
 

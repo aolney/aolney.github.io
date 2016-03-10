@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Intelligent tutoring systems
 category: Category
-tags: [ 'research', 'publications', 'chapter','its','education','guru' ]
+tags: ['research','publications','chapter','its','education-research','guru']
 ---
 Graesser, A. C., Conley, M., & Olney, A. M. (2011). Intelligent tutoring systems. In S. Graham, & K. Harris (Eds.), APA educational psychology handbook. Washington, D.C.: American Psychological Association. 
 

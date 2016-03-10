@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: The effectiveness of computer simulations in a computer based learning environment
 category: Category
-tags: ['research','publications','conference-regular','autotutor','its','agents','education','discourse']
+tags: ['research','publications','conference-regular','autotutor','its','agents','education-research','discourse']
 ---
 Kim, H.J.J., Graesser, A., Jackson, T., Olney, A. & Chipman, P. (2005). The effectiveness of computer simulations in a computer based learning environment. In G. Richards (Ed.), Proceedings of World Conference on E-Learning in Corporate, Government, Healthcare, and Higher Education 2005 (pp. 1362-1367). Chesapeake, VA: AACE. 
 

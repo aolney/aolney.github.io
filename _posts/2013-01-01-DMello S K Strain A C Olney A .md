@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Affect, meta-affect, and affect regulation during complex learning
 category: Category
-tags: [ 'research', 'publications', 'chapter','engagement','education' ]
+tags: ['research','publications','chapter','engagement','education-research']
 ---
 D’Mello, S. K., Strain, A. C., Olney, A., & Graesser, A. (2013). Affect, meta-affect, and affect regulation during complex learning. In R. Azevedo, & V. Aleven (Eds.), International handbook of metacognition and learning technologies, Vol. 26 of Springer International Handbooks of Education (pp. 669–681). Springer New York. 
 

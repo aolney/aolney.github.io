@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Question classification in an epistemic game
 category: Category
-tags: [ 'research', 'publications', 'conference-regular','class5','nlp','discourse','education' ]
+tags: ['research','publications','conference-regular','class5','nlp','discourse','education-research']
 ---
 Li, H., Samei, B., Olney, A. M., Graesser, A. C., & Shaffer, D. W. (2014). Question classification in an epistemic game. In J. Kim, E. Walker, R. Martinez-Maldonado, & I. Goldin (Eds.), 3rd Workshop on Intelligent Support for Learning in Groups (ISLG) at the Twelfth International Conference on Intelligent Tutoring Systems. Cham: Springer. 
 

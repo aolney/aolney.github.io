@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: AutoTutor - A tutor with dialogue in natural language
 category: Category
-tags: ['research','publications','article','autotutor','its','discourse','nlp','semantics','agents','education']
+tags: ['research','publications','article','autotutor','its','discourse','nlp','semantics','agents','education-research']
 ---
 Graesser, A. C., Lu, S., Jackson, G. T., Mitchell, H., Ventura, M., Olney, A., & Louwerse, M. M. (2004). AutoTutor: A tutor with dialogue in natural language. Behavioral Research Methods, Instruments, and Computers, 36, 180-193. 
 

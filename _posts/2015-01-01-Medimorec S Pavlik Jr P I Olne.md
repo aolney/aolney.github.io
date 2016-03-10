@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: The Language of Instruction - Compensating for Challenge in Lectures
 category: Category
-tags: [ 'research', 'publications','article','engagement','nlp', 'education','discourse' ]
+tags: ['research','publications','article','engagement','nlp','education-research','discourse']
 ---
 Medimorec, S., Pavlik Jr., P. I., Olney, A., Graesser, A. C., & Risko, E. F. (2015). The Language of Instruction: Compensating for Challenge in Lectures. Journal of Educational Psychology, 107(4), 971-990.
 

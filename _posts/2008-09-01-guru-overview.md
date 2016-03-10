@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Guru Project Overview
 category: Category
-tags: ['research','its','guru','nlp','semantics','discourse','education','agents','project-overviews']
+tags: ['research','its','guru','nlp','semantics','discourse','education-research','agents','project-overviews']
 ---
 The Guru project developed an expert computer tutor modeled on the strategies and dialogue of expert human tutors. 
 

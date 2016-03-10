@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Achieving domain independence in AutoTutor
 category: Category
-tags: ['research','publications','conference-regular','autotutor','its','education','discourse']
+tags: ['research','publications','conference-regular','autotutor','its','education-research','discourse']
 ---
 Mathews, E. C., Jackson, G. T., Olney, A., Chipman, P., & Graesser, A. C. (2003). Achieving domain independence in AutoTutor. In N. Callaos, M. Margenstern, J. Zhang, O. Castillo, & E. Doberkat (Eds.), The Seventh World Multiconference on Systemics, Cybernetics, and Informatics Proceedings: Computer Science and Engineerings (pp. 172–176). Orlando: IIIS. 
 

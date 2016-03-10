@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Student speech act classification using machine learning
 category: Category
-tags: [ 'research', 'publications', 'conference-regular','guru','nlp','discourse','its','education' ]
+tags: ['research','publications','conference-regular','guru','nlp','discourse','its','education-research']
 ---
 Rasor, T., Olney, A., & D’Mello, S. (2011). Student speech act classification using machine learning. Proceedings of the Twenty-Fourth International FLAIRS Conference (pp. 275–280). Menlo Park, CA: AAAI Press.
 

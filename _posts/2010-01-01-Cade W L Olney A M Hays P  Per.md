@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Tutor me elmo - Improving engagement and learning gains in intelligent tutoring systems with a robotic interface
 category: Category
-tags: [ 'research', 'publications', 'conference-short','hardware','robots','its','education' ]
+tags: ['research','publications','conference-short','hardware','robots','its','education-research']
 ---
 Cade, W. L., Olney, A. M., Hays, P., & Person, N. K. (2010b). Tutor me elmo: Improving engagement and learning gains in intelligent tutoring systems with a robotic interface. In G. Biswas, D. Carr, Y. Chee, & W. Hwang (Eds.), Early Career Researchers Track Proceedings of the IEEE 3rd International Conference on Digital Game and Intelligent Toy Enhanced Learning (pp. 1–2). Jhongli, Taiwan: National Central University. 
 

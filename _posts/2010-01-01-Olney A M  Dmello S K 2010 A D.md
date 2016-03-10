@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: A DIY pressure sensitive chair for intelligent tutoring systems
 category: Category
-tags: [ 'research', 'publications', 'conference-short','hardware','its','guru','education' ]
+tags: ['research','publications','conference-short','hardware','its','guru','education-research']
 ---
 Olney, A. M., & D’mello, S. K. (2010). A DIY pressure sensitive chair for intelligent tutoring systems. Intelligent Tutoring Systems, Lecture Notes In Computer Science (p. 456). Berlin: Springer. 
 

@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Generalized Intelligent Framework for Tutoring (GIFT) - Project Overview
 category: Category
-tags: ['research','its','nlp','gift','semantics','discourse','education','agents','project-overviews']
+tags: ['research','its','nlp','gift','semantics','discourse','education-research','agents','project-overviews']
 ---
 [Click here for all GIFT posts](/tags/gift.html)
 

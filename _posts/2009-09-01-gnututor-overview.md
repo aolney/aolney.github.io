@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: GnuTutor Project Overview
 category: Category
-tags: ['research','its','gnututor','nlp','semantics','discourse','education','agents','project-overviews']
+tags: ['research','its','gnututor','nlp','semantics','discourse','education-research','agents','project-overviews']
 ---
 
 ![gnututor logo](https://umdrive.memphis.edu/aolney/public/website-media/gnututor3.jpg)

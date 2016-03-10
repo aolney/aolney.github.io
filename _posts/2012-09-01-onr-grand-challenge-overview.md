@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: ONR STEM Grand Challenge - Project Overview
 category: Category
-tags: ['research','its','onr-grand-challenge','nlp','discourse','education','agents','project-overviews']
+tags: ['research','its','onr-grand-challenge','nlp','discourse','education-research','agents','project-overviews']
 ---
 [Click here for all ONR STEM Grand Challenge posts](/tags/onr-grand-challenge.html)
 

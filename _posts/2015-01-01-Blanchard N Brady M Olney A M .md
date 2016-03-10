@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title:  A Study of Automatic Speech Recognition in Noisy Classroom Environments for Automated Dialog Analysis
 category: Category
-tags: [ 'research', 'publications', 'conference-regular','class5','nlp','education','discourse' ]
+tags: ['research','publications','conference-regular','class5','nlp','education-research','discourse']
 ---
 Blanchard, N., Brady, M., Olney, A. M., Glaus, M., Sun, X., Nystrand, M., Samei, S., Kelly, S., & D’Mello, S. (2015). A Study of Automatic Speech Recognition in Noisy Classroom Environments for Automated Dialog Analysis. In C. Conati, N. Heffernan, A. Mitrovic, & M. F. Verdejo (Eds.), Artificial Intelligence in Education (pp. 23–33). Springer International Publishing. 
 

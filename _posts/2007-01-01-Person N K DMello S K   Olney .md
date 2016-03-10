@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Toward socially intelligent interviewing systems
 category: Category
-tags: ['research','publications','chapter','nlp','discourse','autotutor','its','education']
+tags: ['research','publications','chapter','nlp','discourse','autotutor','its','education-research']
 ---
 Person, N. K., D'Mello, S. K., , & Olney, A. M. (2007). Toward socially intelligent interviewing systems. In M. Schober, & F. Conrad (Eds.), Envisioning the survey interview of the future. New York: Wiley. 
 

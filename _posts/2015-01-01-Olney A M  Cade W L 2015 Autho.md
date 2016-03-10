@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Authoring Intelligent Tutoring Systems Using Human Computation - Designing for Intrinsic Motivation
 category: Category
-tags: [ 'research', 'publications','braintrust','engagement','its','education','conference-regular' ]
+tags: ['research','publications','braintrust','engagement','its','education-research','conference-regular']
 ---
 Olney, A. M., & Cade, W. L. (2015). Authoring Intelligent Tutoring Systems Using Human Computation: Designing for Intrinsic Motivation. In D. D. Schmorrow & C. M. Fidopiastis (Eds.), Foundations of Augmented Cognition (Vol. 9183, pp. 628–639). Springer International Publishing.
 

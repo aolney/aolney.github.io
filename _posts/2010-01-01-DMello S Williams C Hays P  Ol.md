@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Individual differences as predictors of learning and engagement
 category: Category
-tags: [ 'research', 'publications', 'conference-regular','guru','its','engagement','education' ]
+tags: ['research','publications','conference-regular','guru','its','engagement','education-research']
 ---
 D’Mello, S., Williams, C., Hays, P., & Olney, A. M. (2010). Individual differences as predictors of learning and engagement. In S.  Ohlsson & R. Catrambone (Eds.), Proceedings of the 32nd Annual Conference of the Cognitive Science Society (pp. 308-313). Austin, TX: Cognitive Science Society.  
 

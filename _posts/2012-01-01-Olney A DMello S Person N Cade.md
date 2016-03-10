@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Guru - A Computer Tutor that Models Expert Human Tutors
 category: Category
-tags: [ 'research', 'publications', 'conference-regular','guru','its','education','nlp','discourse' ]
+tags: ['research','publications','conference-regular','guru','its','education-research','nlp','discourse']
 ---
 Olney, A., D'Mello, S., Person, N., Cade, W., Hays, P., Williams, C., Lehman, B., & Graesser, A. (2012). Guru: A Computer Tutor that Models Expert Human Tutors. Proceedings of the 11th International Conference on Intelligent Tutoring Systems, (pp. 256-261). Berlin: Springer. 
 

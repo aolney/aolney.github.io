@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Guru - Designing a Conversational Expert Intelligent Tutoring System
 category: Category
-tags: [ 'research', 'publications', 'chapter','guru','its','education','nlp','semantics','discourse' ]
+tags: ['research','publications','chapter','guru','its','education-research','nlp','semantics','discourse']
 ---
 Olney, A. M., Person, N. K., & Graesser, A. C. (2012). Guru: Designing a Conversational Expert Intelligent Tutoring System. In C. Boonthum-Denecke, P. McCarthy, & T. Lamkin (Eds.), Cross-Disciplinary Advances in Applied Natural Language Processing: Issues and Approaches (pp. 156-171). 
 
