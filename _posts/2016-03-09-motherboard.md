@@ -4,6 +4,7 @@ section-type: post
 title: Motherboard PKD Android
 category: Category
 tags: [ 'research', 'press','robots' ]
+excerpt: <h3></h3>
 ---
 <object data="https://umdrive.memphis.edu/aolney/public/press/motherboard2016.pdf" type="application/pdf" width="100%" height="600px">
  

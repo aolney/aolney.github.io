@@ -14,7 +14,7 @@
           <small> <a href="{{site.baseurl}}{{post.url}}#disqus_thread">Comments</a></small>
         </h4>
 
-        {{ post.content | truncatewords: site.post-preview-words | strip_html | markdownify }}
+        {{ post.excerpt | truncatewords: site.post-preview-words | strip_html | markdownify }}
 
         <h4><a href="{{site.baseurl}}/blog/">Chronological posts</a></h4>
 <h4><a href="{{site.baseurl}}/tags.html">Posts by category</a></h4>
