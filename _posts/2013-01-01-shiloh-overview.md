@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Shiloh Overview
 category: Category
-tags: [ 'research', 'publications', 'article','discourse','dogs' ]
+tags: [ 'research','discourse','dogs' ]
 ---
 ![picture facing](https://umdrive.memphis.edu/aolney/public/website-media/grass_facing.jpg)
 Shiloh and I are FEMA Type III certified in Wilderness Air Scent, Air Scent (Discriminatory) certified by the Network of Canine Detection Services, and I am a certified SARTECH II evaluator.
