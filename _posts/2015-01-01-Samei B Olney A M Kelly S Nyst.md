@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Modeling Classroom Discourse - Do Models that Predict Dialogic Instruction Properties Generalize across Populations?
 category: Category
-tags: ['research','publications','class5','education-research','conference-short','discourse']
+tags: ['research','publications','class5','education-research','conference-short','discourse','nlp']
 ---
 Samei, B., Olney, A. M., Kelly, S., Nystrand, M., D’Mello, S., Blanchard, N., & Graesser, A. (2015). Modeling Classroom Discourse: Do Models that Predict Dialogic Instruction Properties Generalize across Populations? In O. C. Santos, J. G. Boticario, C. Romero, M. Pechenizkiy, A. Merceron, P. Mitros, …  and M. Desmarais (Eds.), Proceedings of the 8th International Conference on Educational Data Mining (pp. 444–447). International Educational Data Mining Society.
 
