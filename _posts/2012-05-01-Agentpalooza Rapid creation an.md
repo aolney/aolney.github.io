@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Agentpalooza<li>Rapid creation and deployment of embodied conversational agents
+title: Agentpalooza Rapid creation and deployment of embodied conversational agents
 category: Category
 tags: [ 'research', 'invitedtalk','guru','agents' ]
 ---

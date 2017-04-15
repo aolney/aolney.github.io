@@ -6,6 +6,13 @@ category: Category
 tags: [ 'research', 'fsharp' ]
 ---
 
+<style type="text/css">
+  p {
+ 	text-align:left;
+  }
+
+</style>
+
 - None of the existing installers worked at all
 - Modified the [install script](https://gist.github.com/aolney/8d951cc15692e772e0ace8e27800555a) to handle Debian 9 and a bash shell
 - After it runs do `find /opt/dotnet -name '*.so' -type f -print | xargs ldd | grep 'not found'` to see if you are missing any libraries
