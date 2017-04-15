@@ -10,6 +10,12 @@ tags: [ 'research', 'fsharp' ]
   p {
  	text-align:left;
   }
+  ul {
+ 	text-align:left;
+  }
+  li {
+ 	text-align:left;
+  }
 
 </style>
 
