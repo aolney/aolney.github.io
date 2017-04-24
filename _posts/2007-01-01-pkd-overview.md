@@ -34,5 +34,5 @@ Of course it wasn't perfect, but a [lot of people got excited about sitting down
 
 <iframe title="YouTube video player" class="youtube-player" type="text/html" src="//www.youtube.com/embed/yXKcgLhuTJ0?rel=0&amp;wmode=opaque" frameborder="0" allowFullScreen="true" width="425" height="355"></iframe>
 
-<iframe title="YouTube video player" class="youtube-player" type="text/html" src="//www.youtube.com/embed/c-9wbcJIW4A?rel=0&amp;wmode=opaque" frameborder="0" allowFullScreen="true" width="425" height="355"></iframe></div></div></div></div>
+<iframe title="YouTube video player" class="youtube-player" type="text/html" src="//www.youtube.com/embed/c-9wbcJIW4A?rel=0&amp;wmode=opaque" frameborder="0" allowFullScreen="true" width="425" height="355"></iframe>
 
