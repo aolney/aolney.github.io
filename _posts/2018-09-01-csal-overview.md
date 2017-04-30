@@ -3,7 +3,6 @@ layout: post
 section-type: post
 title: Center for the Study of Adult Literacy (CSAL)- Project Overview
 category: Category
-date: 2012-09-01
 tags: ['research','its','csal','nlp','discourse','education-research','agents','reading','project-overviews']
 ---
 [Click here for all CSAL posts](/tags/csal.html)
