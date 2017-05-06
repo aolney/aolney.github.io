@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Fable 1.0 in Linux Docker Container with dotnet
 category: Category
-tags: [ 'research', 'fsharp' ]
+tags: [ 'research', 'fsharp', 'braintrust' ]
 ---
 I've been working with a really fantastic [f# to javascript compiler called fable](http://fable.io/). Basically I can write f# programs, compile to javascript, and run in browser, node, or electron.
 

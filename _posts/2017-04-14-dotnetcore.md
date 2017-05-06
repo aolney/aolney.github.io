@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Install dotnet core on Debian sid (unstable) 
 category: Category
-tags: [ 'research', 'fsharp' ]
+tags: [ 'research', 'fsharp', 'braintrust' ]
 ---
 - None of the existing installers worked at all
 - Modified the [install script](https://gist.github.com/aolney/8d951cc15692e772e0ace8e27800555a) to handle Debian 9 and a bash shell
