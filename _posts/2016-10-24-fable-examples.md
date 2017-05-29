@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: BrainTrust Electron Client
+title: Fable Electron Examples
 category: Category
 tags: [ 'research', 'fsharp', 'braintrust' ]
 ---
