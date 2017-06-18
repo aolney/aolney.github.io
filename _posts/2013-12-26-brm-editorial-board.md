@@ -5,4 +5,4 @@ title: Editorial Board for Behavior Research Methods
 category: Category
 tags: [ 'reviewing', 'service','editorial-board' ]
 ---
-I've been asked to join the editorial board for BRM
+I've joined the editorial board for BRM.
