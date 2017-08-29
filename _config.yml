@@ -155,6 +155,9 @@ people:
        url: "https://www.researchgate.net/profile/Borhan_Samei"
      - title: google
        url: "https://scholar.google.com/citations?user=PRwePVUAAAAJ&hl=en&oi=ao"
+ - pic: "/img/team/davis.jpg"
+   name: Davis Whaley
+   position: M.S. Candidate, Psychology
  - pic: "/img/team/rosetta.jpg"
    link: "/tags/advising.html"
    name: Former Students
