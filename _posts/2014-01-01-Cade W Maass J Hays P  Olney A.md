@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Animated Presentation of Pictorial and Concept Map Media in Biology
 category: Category
-tags: ['research','publications','conference-regular','agents','discourse','education-research','guru','its']
+tags: ['research','publications','conference-regular','agents','discourse','education-research','guru','its','award']
 ---
 Cade, W., Maass, J., Hays, P. & Olney, A. (2014). Animated Presentation of Pictorial and Concept Map Media in Biology. In S. Trausan-Matu, K. Boyer, M. Crosby & K. Panourgia (ed.), Intelligent Tutoring Systems, Vol. 8474 (pp. 416-425). Springer International Publishing. BEST STUDENT PAPER AWARD 
 
