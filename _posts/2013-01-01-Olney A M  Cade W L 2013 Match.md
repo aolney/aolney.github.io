@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Matching learner models to instructional strategies
 category: Category
-tags: ['research','publications','chapter','gift','its','education-research']
+tags: ['research','publications','chapter','gift','its','education-research','csal']
 ---
 Olney, A. M., & Cade, W. L. (2013). Matching learner models to instructional strategies. In R. Sottilare, A. Graesser, X. Hu, & H. Holden (Eds.), Design recommendations for adaptive intelligent tutoring systems: Learner modeling, Vol. 1 of Adapive Tutoring (pp. 23–38). Orlando: U.S. Army Research Laboratory. 
 
