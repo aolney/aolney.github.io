@@ -7,7 +7,7 @@ tags: [ 'research', 'robots','hardware','nlp','discourse' ]
 ---
 I was given a Big Mouth Billy Bass as a gag gift.
 
-![picture of fish](http://umdrive.memphis.edu/aolney/public/projects/bass/BillyBassFish3.jpg)
+![picture of fish](https://umdrive.memphis.edu/aolney/public/projects/bass/BillyBassFish3.jpg)
 
 I decided to modify it so that I could "puppet" it from a computer.
 
