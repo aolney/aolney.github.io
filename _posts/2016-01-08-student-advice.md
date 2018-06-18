@@ -19,8 +19,9 @@ The **BEST** thing you can do is find a professor whose work you find exciting a
 - Use that interest to select a professor
 - Based on the above, apply to a school
 
-A lot of people have written on this topic. I particularly like the following:
+A lot of people have weighed in on this topic. I particularly like the following:
 
+- [Ryan Adams](https://art19.com/shows/talking-machines/episodes/5e04c7b2-e539-419e-9498-bcd686159d71)
 - [Mark Johnson](http://web.science.mq.edu.au/~mjohnson/Grad-applicants.htm)
 - [Ronald Azuma](http://www.cs.unc.edu/~azuma/hitch4.html)
 
