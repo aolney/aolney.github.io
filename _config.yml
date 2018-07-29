@@ -32,7 +32,7 @@ force-https: False
 lang: "en"
 author: "Andrew M. Olney"
 title: "{ Andrew M. Olney }"
-description: "Blog and website of Andrew M. Olney. Opinions expressed are mine."
+description: "Blog and website of Andrew M. Olney"
 keywords: "Olney, linguistics, computation, education, tutoring"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
