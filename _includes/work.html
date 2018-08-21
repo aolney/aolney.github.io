@@ -9,6 +9,7 @@
                 </div>
             </div>
             <div class="row text-center">
+<!-- Teaching -->
                 <div class="col-md-4">
 		<a href="{{site.baseurl}}{{ site.teaching-link }}">
                     <span class="fa-stack fa-4x">
@@ -20,6 +21,7 @@
 <!-- <p class="text-muted"> -->
                     <p>{{ site.teaching | markdownify }}</p>
                 </div>
+<!-- Research -->
                 <div class="col-md-4">
 		<a href="{{site.baseurl}}{{ site.research-link }}">
                     <span class="fa-stack fa-4x">
@@ -31,6 +33,7 @@
 <!-- <p class="text-muted"> -->
                     <p>{{ site.research | markdownify }}</p>
                 </div>
+<!-- Service -->
                 <div class="col-md-4">
 		<a href="{{site.baseurl}}{{ site.service-link }}">
                     <span class="fa-stack fa-4x">
@@ -42,6 +45,23 @@
 <!-- <p class="text-muted"> -->
                     <p>{{ site.service | markdownify }}</p>
                 </div>
+	</div>
+
+<!-- CV -->
+            <div class="row text-center">
+<div class="col-md-4" style="float:none;margin:0 auto">
+
+		<a href="{{site.baseurl}}{{ site.cv-link }}">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-file-pdf-o fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">CV</h4>
+		</a>
+<!-- <p class="text-muted"> -->
+                    <p>{{ site.cv | markdownify }}</p>
+                </div>
+
             </div>
         </div>
     </section>
