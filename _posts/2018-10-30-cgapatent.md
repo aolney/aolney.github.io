@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: Reviewer Finder
+title: System and method for automatic extraction of conceptual graphs 
 category: Category
 tags: ['research','nlp','guru','braintrust','patent','semantics']
 ---
