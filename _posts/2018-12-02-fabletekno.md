@@ -29,15 +29,15 @@ So, how can we:
 
 ## Music
 
-There are quite [a few options for making music in javascript](http://tangiblejs.com/libraries/audio).
-One that caught my eye in particular was [Gibber](http://charlie-roberts.com/gibber/about-gibber/), probably because it is prominently listed as a [p5 library](https://p5js.org/libraries/).
+There are quite [a few options for making music in javascript](https://tangiblejs.com/libraries/audio).
+One that caught my eye in particular was [Gibber](https://charlie-roberts.com/gibber/about-gibber/), probably because it is prominently listed as a [p5 library](https://p5js.org/libraries/).
 
 Gibber seems to be a family of projects sharing code, developed by [Charlie Roberts](https://github.com/charlieroberts) and the [gibber-cc](https://github.com/gibber-cc) organization. 
 As a result, there's a lot of documentation and tutorials available:
 
 - [Gitbook](https://bigbadotis.gitbooks.io/gibber-user-manual/)
 - [Gibber-cc docs](https://gibber.cc/docs/index.html)
-- [Gibber-lib reference](http://charlie-roberts.com/gibber/gibber-lib-reference/)
+- [Gibber-lib reference](https://charlie-roberts.com/gibber/gibber-lib-reference/)
 - [Gibber-cc interactive tutorials](https://gibber.cc/)
 
 The interactive tutorials are probably the best way to get a feel for the capabilities and how to work with the library from a live coding/performance standpoint, which is what we are most interested in.
@@ -56,13 +56,13 @@ Gibber.Clock.codeToExecute.push( { code:"Kick().play( 55, Euclid( 5,8 ) )" } )
 ```
 
 So how to interface with Fable?
-I started by using [ts2fable](https://github.com/fable-compiler/ts2fable) on some [typescript definition files of p5js](https://github.com/LujunWeng/demos-p5js/tree/master/typings/p5js) to create a [Fable foreign interface](http://fable.io/docs/interacting.html).
+I started by using [ts2fable](https://github.com/fable-compiler/ts2fable) on some [typescript definition files of p5js](https://github.com/LujunWeng/demos-p5js/tree/master/typings/p5js) to create a [Fable foreign interface](https://fable.io/docs/interacting.html).
 Now we have static type checking for our p5 bindings!
 
 For the Gibber library, we don't have any typescript to start from. 
 So I used a slightly dirty, but I think very useful trick:
 
-- Open up [global mode p5-gibber demo](http://charlie-roberts.com/gibber/examples/p5.gibber.bass.example/) in chrome
+- Open up [global mode p5-gibber demo](https://charlie-roberts.com/gibber/examples/p5.gibber.bass.example/) in chrome
 - Set a breakpoint in `draw`
 - Go to Global variable dropdown
 - Select all variable names (including functions)
@@ -101,17 +101,17 @@ Each component will require 1 person to operate.
 We choose to have 1 component per person so that person can have effects assigned to their left hand.
 The following sample code follows the same pattern: the first parameter is frequency, so is static (defines a characteristic of the instrument), and the second is a rhythm parameter.
  
-[Kick](http://charlie-roberts.com/gibber/kick/)
+[Kick](https://charlie-roberts.com/gibber/kick/)
 ```
 Kick().play( 55, Euclid( 5,8 ) )  
 ```
 
-[Snare](http://charlie-roberts.com/gibber/snare/)
+[Snare](https://charlie-roberts.com/gibber/snare/)
 ```
 Snare().play(1, Euclid( 5,8 ) )
 ```
 
-[Hat](http://charlie-roberts.com/gibber/hat/)
+[Hat](https://charlie-roberts.com/gibber/hat/)
 ```
 Hat().play(5000, Euclid( 5,8 ) )
 ```
@@ -239,7 +239,7 @@ It is the last one that most interest us, since we are going to use the position
 <tr>
     <td width="50%"><img src="https://i.stack.imgur.com/LPlP3.png" alt="Kinect Joint Diagram" width="100%"/>
 </td>
-    <td width="50%"><img src="http://olney.ai/fable-p5-gibber-kinectron-client/img/vitruvian-r2-santa.jpg" alt="Kinect Coordinate Frames" width="83%"/>
+    <td width="50%"><img src="https://olney.ai/fable-p5-gibber-kinectron-client/img/vitruvian-r2-santa.jpg" alt="Kinect Coordinate Frames" width="83%"/>
 </td>
   </tr>
 </table> 
@@ -376,7 +376,7 @@ I've never been much a fan of javascript, but using Fable takes away *most* of t
 Typically where I run into trouble is when I'm trying to use a javascript library that doesn't have a foreign interface already - particularly a large, ~~ugly~~ complicated javascript library.
 When there's a foreign interface and you're using packages from NPM, there's basically no friction at all.
 
-Although there are a number of options for developing in Fable, I prefer to use VSCode with [Ionide](http://ionide.io/) and Chrome debugger extensions (of course this assumes all dependencies are also installed).
+Although there are a number of options for developing in Fable, I prefer to use VSCode with [Ionide](https://ionide.io/) and Chrome debugger extensions (of course this assumes all dependencies are also installed).
 Using [simple templates](https://github.com/fable-compiler/fable2-samples/tree/master/minimal) or more [complex starter projects](https://github.com/MangelMaxime/fulma-demo), one can code in F# while fable watches, transpiles, bundles with hot module replacement in Chrome.
 While it is possible to set F# breakpoints in VSCode, I prefer to set them in Chrome which supports breakpoints in both F#/Fable source maps and emitted javascript.
 It's a really great way to build crossplatform apps for the web or [Electron](https://github.com/fable-compiler/samples-electron).
