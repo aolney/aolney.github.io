@@ -7,8 +7,8 @@ tags: ['service','demo','hardware','outreach','fsharp']
 ---
 This post is my first contribution to the [FsAdvent](https://sergeytihon.com/tag/fsadvent/) series, but it all started with an outreach event I've been doing for some years called [Geek101](https://olney.ai/tags/geek101.html).
 
-Geek101 is a STEM fieldtrip attached to a [comic convention](https://memphiscfc.com/geek-101/), and our goal there has been to get the kids engaged in STEM using robotics and cool HCI.
-I've been using a Kinect piano/theramin demo that's gotten a bit stale (to me), so I thought I'd freshen it up with some [F#/Fable magic](https://fable.io/).
+Geek101 is a STEM field trip attached to a [comic convention](https://memphiscfc.com/geek-101/), and our goal there has been to get the kids engaged in STEM using robotics and cool HCI.
+I've been using a Kinect piano/theremin demo that's gotten a bit stale (to me), so I thought I'd freshen it up with some [F#/Fable magic](https://fable.io/).
 
 Here's the result:
 
@@ -19,6 +19,8 @@ Here's the result:
 &nbsp;
 
 [**Try online from a desktop or laptop!**](https://olney.ai/fable-p5-gibber-kinectron-client/)
+
+[**Check out the GitHub repo!**](https://github.com/aolney/fable-p5-gibber-kinectron-client)
 
 So, how can we:
 
@@ -72,7 +74,7 @@ So I used a slightly dirty, but I think very useful trick:
 
 I also used this strategy later to add more items to the p5 portion.
 
-That's why my interface file `Fable.Import.p5.gibber.fs` is a bit of a turduken:
+That's why my interface file `Fable.Import.p5.gibber.fs` is a bit of a turducken:
 
 - p5 typescript converted to fable using ts2fable
 - Copy/paste hack to get gibber coverage
@@ -124,9 +126,9 @@ Hat().play(30000, Euclid( 5,8 ) )
 Like the rhythm instruments, pitched instruments have rhythm, which we program in the same way.
 
 However, pitched instruments also have pitch, which can be represented by a single number for a bass line but needs 3 numbers for a chord.
-Mapping pitches to spatial coordinates is simple: we just define an origin and make sure the min/max of our pitch is appopriately scaled to the space of the left/right hand (defined in the Kinect section below).
+Mapping pitches to spatial coordinates is simple: we just define an origin and make sure the min/max of our pitch is appropriately scaled to the space of the left/right hand (defined in the Kinect section below).
 
-Gibber allows us to real time map pitch quantities to pitched instruments:
+Gibber allows us to real-time map pitch quantities to pitched instruments:
 
 ```
 a = FM( 'bass' ).note.seq( function(){return Mouse.Y/1000} , Euclid( 5,8 )  )
@@ -144,7 +146,7 @@ So for the Bass instrument, we only need Y coordinates to define the pitch, but 
 The left hand is used for effects using the same spatial mapping approach as pitched instruments. 
 
 One of the motivations for leaving effects to the left hand is that this demo is intended for kids.
-Kids will want to continually experiment with the sound, so giving them free reign over the left hand even after the right hand is locked in should help stabilize the group effort.
+Kids will want to continually experiment with the sound, so giving them free rein over the left hand even after the right hand is locked in should help stabilize the group effort.
 
 There's no right/wrong answer it seems for what effects make sense for what instrument. 
 Here are some reasonable presets with accompanying Gibber documentation and code.
@@ -248,7 +250,7 @@ As you can see in the diagrams (based on the famous [Vitruvian Man](https://en.w
 The coordinate frame itself is anchored at the base of the spine and each respective shoulder.
 
 Hand positions are represented as x/y on [0,1] and then appropriately rescaled depending on the use.
-For example, Euclidean rhythm parameters are scaled by 16 (i.e., 16th notes), pitches are scaled by 20 (2.5 octaves), and effects are individually scaled based on their paramter ranges. 
+For example, Euclidean rhythm parameters are scaled by 16 (i.e., 16th notes), pitches are scaled by 20 (2.5 octaves), and effects are individually scaled based on their parameter ranges. 
 
 As with Gibber, I manually made a Fable foreign interface for Kinectron, though I relied more on the published API for Kinectron.
 Kinectron, like Gibber, seems to want to be in global scope, so like p5 and Gibber, I included the scripts in the head of `index.html`.
@@ -264,7 +266,7 @@ kinectron.startTrackedBodies(processFrame)
 First, Kinect gives us a few gestures for free, and we use those switch between programming and performance mode and to switch instruments:
 
 ```
-//Lasso both hands (peace sign) is change insturments; closed hands (3) means rhythm programming; everything else is melody live performance
+//Lasso both hands (peace sign) is change instruments; closed hands (3) means rhythm programming; everything else is melody live performance
 let bodyMode = 
   if body.rightHandState = 4 && body.leftHandState = 4 then
     BodyMode.ChangeInstrument
@@ -334,11 +336,12 @@ let onMouseMove (ev : Fable.Import.Browser.MouseEvent) =
 
 Putting all the functionality in mouse mode, then wiring up the Kinect, resulted in a much faster development cycle.
 The wiring in this case was just messages: in a handler for a mouse message I would construct and issue the same body message (shown above) that would be issued by the Kinect's `processFrame`.
+By simulating Kinect messages using the mouse, I was basically assured everything would work correctly once the same messages were being generated by the Kinect.
 
 &nbsp;
 ## P5
 
-P5 is a nice client side javascript library for multimedia.
+P5 is a nice client-side javascript library for multimedia.
 Canonically, one includes a `setup` function to initialize the application and a `draw` function that updates the application (i.e. per frame).
 In our case, we include these two functions but only as empty functions, [simply to force global mode](https://github.com/processing/p5.js/wiki/Global-and-instance-mode#when-is-global-mode-assumed), which I do in the head of `index.html`.
 
@@ -379,5 +382,12 @@ When there's a foreign interface and you're using packages from NPM, there's bas
 Although there are a number of options for developing in Fable, I prefer to use VSCode with [Ionide](https://ionide.io/) and Chrome debugger extensions (of course this assumes all dependencies are also installed).
 Using [simple templates](https://github.com/fable-compiler/fable2-samples/tree/master/minimal) or more [complex starter projects](https://github.com/MangelMaxime/fulma-demo), one can code in F# while fable watches, transpiles, bundles with hot module replacement in Chrome.
 While it is possible to set F# breakpoints in VSCode, I prefer to set them in Chrome which supports breakpoints in both F#/Fable source maps and emitted javascript.
-It's a really great way to build crossplatform apps for the web or [Electron](https://github.com/fable-compiler/samples-electron).
+It's a really great way to build cross-platform apps for the web or [Electron](https://github.com/fable-compiler/samples-electron).
 
+&nbsp;
+## Wrapping up
+
+I hope you've enjoyed this post.
+If you are already a part of the Fable community, please give p5 and gibber a go!
+If you're familiar with F# but not Fable, give yourself a gift this holiday 
+season and [try it out](https://github.com/kunjee17/awesome-fable).
