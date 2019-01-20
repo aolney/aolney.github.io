@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Noah Wins Awards for BrainTrust Poster
 category: Category
-tags: [ 'braintrust','research','award','education-research','nlp','discourse','semantics' ]
+tags: [ 'braintrust','research','award','education-research','nlp','discourse','semantics','advising' ]
 ---
 Noah Coomer started working with me this semester and has been building a service combining [the mateplus semantic parser](https://github.com/microth/mateplus) and [the clulab everything else parser](https://github.com/clulab/processors).
 

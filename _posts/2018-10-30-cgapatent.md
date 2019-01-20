@@ -15,3 +15,4 @@ Given the state of NLP at that time, we used a post-hoc manual correction proces
 
 The patent was filed in 2010, so it took eight years to be awarded.
 
+![patent plaque](https://umdrive.memphis.edu/aolney/public/website-media/patentplaque.jpg)
