@@ -13,5 +13,7 @@ I've released a reimplementation using F# and [Fable](https://fable.io/) that ru
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kbK0eoi5ezM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-You can [go here for a live demo](https://olney.ai/question-classifier-2003-reboot/). The code [lives on GitHub](https://github.com/aolney/question-classifier-2003-reboot).
+The program [is available here](https://olney.ai/question-classifier-2003-reboot/). It is all client-side, so there's no need to install it yourself.
+
+The code [lives on GitHub](https://github.com/aolney/question-classifier-2003-reboot).
 
