@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Fable Tekno
 category: Category
-tags: ['service','demo','hardware','outreach','fsharp']
+tags: ['service','demo','hardware','outreach','fsharp','music']
 ---
 This post is my first contribution to the [FsAdvent](https://sergeytihon.com/tag/fsadvent/) series, but it all started with an outreach event I've been doing for some years called [Geek101](https://olney.ai/tags/geek101.html).
 

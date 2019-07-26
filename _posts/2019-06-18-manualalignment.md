@@ -35,4 +35,6 @@ The input to the program is required to be wav audio and json with the following
 ```
 The program [is available here](https://olney.ai/manual-subtitle-speech-alignment). It is all client-side, so there's no need to install it yourself.
 
+The GitHub repository [is here](https://github.com/aolney/manual-subtitle-speech-alignment).
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mB0pBMFo6Sk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
