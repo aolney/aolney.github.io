@@ -145,22 +145,25 @@ cv-link: "/tags/cv.html"
 # Students#
 ###########
 people:
- - pic: "/img/team/borhan.jpg"
-   link: "https://umdrive.memphis.edu/bsamei/public/"
-   name: Borhan Samei
-   position: Ph.D. Candidate, Computer Science
-   social:
-     - title: google-plus
-       url: "https://plus.google.com/118424456688736358978"
-     - title: linkedin
-       url: "http://ir.linkedin.com/pub/borhan-samei/56/738/91"
-     - title: random
-       url: "https://www.researchgate.net/profile/Borhan_Samei"
-     - title: google
-       url: "https://scholar.google.com/citations?user=PRwePVUAAAAJ&hl=en&oi=ao"
- - pic: "/img/team/davis.jpg"
-   name: Davis Whaley
-   position: M.S. Candidate, Psychology
+# - pic: "/img/team/borhan.jpg"
+#   link: "https://umdrive.memphis.edu/bsamei/public/"
+#   name: Borhan Samei
+#   position: Ph.D. Candidate, Computer Science
+#   social:
+#     - title: google-plus
+#       url: "https://plus.google.com/118424456688736358978"
+#     - title: linkedin
+#       url: "http://ir.linkedin.com/pub/borhan-samei/56/738/91"
+#     - title: random
+#       url: "https://www.researchgate.net/profile/Borhan_Samei"
+#     - title: google
+#       url: "https://scholar.google.com/citations?user=PRwePVUAAAAJ&hl=en&oi=ao"
+# - pic: "/img/team/davis.jpg"
+#   name: Davis Whaley
+#   position: M.S. Candidate, Psychology
+ - pic: "/img/team/unclesam.jpg"
+   link: "/category/2016/01/08/student-advice.html"
+   name: Your Name Here!
  - pic: "/img/team/rosetta.jpg"
    link: "/tags/advising.html"
    name: Former Students
