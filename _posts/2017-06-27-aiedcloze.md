@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Improving Reading Comprehension with Automatically Generated Cloze Item Practice
 category: Category
-tags: ['research','publications','csal', 'braintrust', 'education-research','conference-regular','discourse', 'nlp']
+tags: ['research','publications','csal', 'braintrust', 'mofacts', 'education-research','conference-regular','discourse', 'nlp']
 ---
 Olney, A. M., Pavlik Jr., P. J., & Maass, J. K. (2017). Improving Reading Comprehension with Automatically Generated Cloze Item Practice. In E. André, R. Baker, X. Hu, M. M. T. Rodrigo, & B. du Boulay (Eds.), Artificial Intelligence in Education (pp. 262–273). Springer. https://doi.org/10.1007/978-3-319-61425-0
 
