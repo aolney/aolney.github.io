@@ -10,7 +10,7 @@ Noah Coomer started working with me this semester and has been building a servic
 Noah presented this work at the CS Department Research Day and the UoM Research Forum and won awards at both.
 Congrats Noah!
 
-<img src="https://umdrive.memphis.edu/aolney/public/website-media/cs-noah-award-2018.jpg" alt="picture cs award" style="width: 400px;"/>
+<img src="https://blogs.memphis.edu/aolney/files/2019/10/cs-noah-award-2018.jpg" alt="picture cs award" style="width: 400px;"/>
 
-<img src="https://umdrive.memphis.edu/aolney/public/website-media/uom-noah-award-2018.jpg" alt="picture uom award" style="width: 400px;"/>
+<img src="https://blogs.memphis.edu/aolney/files/2019/10/uom-noah-award-2018.jpg" alt="picture uom award" style="width: 400px;"/>
 

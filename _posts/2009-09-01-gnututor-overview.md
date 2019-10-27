@@ -6,7 +6,7 @@ category: Category
 tags: ['research','its','gnututor','nlp','semantics','discourse','education-research','agents','project-overviews']
 ---
 
-![gnututor logo](https://umdrive.memphis.edu/aolney/public/website-media/gnututor3.jpg)
+![gnututor logo](https://blogs.memphis.edu/aolney/files/2019/10/gnututor3.jpg)
 
 [Click here for all GnuTutor posts](/tags/gnututor.html)
 

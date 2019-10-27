@@ -7,13 +7,13 @@ tags: [ 'research', 'robots','hardware','nlp','discourse' ]
 ---
 I was given a Big Mouth Billy Bass as a gag gift.
 
-![picture of fish](https://umdrive.memphis.edu/aolney/public/projects/bass/BillyBassFish3.jpg)
+![picture of fish](https://blogs.memphis.edu/aolney/files/2019/10/BillyBassFish3.jpg)
 
 I decided to modify it so that I could "puppet" it from a computer.
 
 Eventually, this led to connecting it to AutoTutor, with speech recognition, for an embodied tutor fish.
 
-[Here is the source code for the basic puppeting.](https://umdrive.memphis.edu/aolney/public/projects/bass/BassTTS.zip)
+[Here is the source code for the basic puppeting.](https://blogs.memphis.edu/aolney/files/2019/10/BassTTS.zip)
 
 This same code can be used to puppet virtually any kind of novelty animatronic.
 

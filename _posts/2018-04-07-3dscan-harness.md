@@ -52,7 +52,7 @@ What I ended up doing was more low level, loosely related [to this MAKE post](ht
 Bascially you take your model and do an UV unwrap on it to get a "pattern" though the pattern is now dimensionless.
 I did this in Blender, creating seems along the top line and around legs.
 
-![picture model to unwrap](https://umdrive.memphis.edu/aolney/public/website-media/harness2018/model-2-unwrap.png)
+![picture model to unwrap](https://blogs.memphis.edu/aolney/files/2019/10/model-2-unwrap.png)
 
 Once you have the unwrap, you can export it as an image.
 Of course the image is all meshy; what we want is to have a clean background and foreground.
@@ -61,12 +61,12 @@ I did the scaling by a tape measure around Shiloh (so much for millimeter accura
 In hindsight, I should have scanned with a calibration object for this purpose.
 The pattern was created in gimp by messing with inversions and alpha channels.
 
-![picture mesh to pattern](https://umdrive.memphis.edu/aolney/public/website-media/harness2018/mesh-2-pattern.png)
+![picture mesh to pattern](https://blogs.memphis.edu/aolney/files/2019/10/mesh-2-pattern.png)
 
 Finally I needed to print the pattern, which was huge, to have a guide while I was fabricating.
 I used a print tiling program to do this with letter size paper.
 
-![picture pattern print tiled](https://umdrive.memphis.edu/aolney/public/website-media/harness2018/pattern-print-tiled.png)
+![picture pattern print tiled](https://blogs.memphis.edu/aolney/files/2019/10/pattern-print-tiled.png)
 
 I started crocheting with a number 10 hook and a double stich.
 Having done some 3D printing, I thought crochet had a lot of similarities, so the idea appealed to me.
@@ -82,7 +82,7 @@ My biggest lesson with the Mark 1 was the deformation issue.
 My pattern was very organic (cut from a 3D model) which made it impossible to count stiches and difficult to register against the piece.
 I didn't even finish the Mark 1 it was so bad.
 
-![picture mark 1](https://umdrive.memphis.edu/aolney/public/website-media/harness2018/mark1.jpg)
+![picture mark 1](https://blogs.memphis.edu/aolney/files/2019/10/mark1.jpg)
 
 I also learned that crochet of paracord uses A LOT of material (get a 1000 foot spool or go home).
 Rest in piece Mark 1.
@@ -94,22 +94,22 @@ This let me register the piece against the pattern and also know that each row h
 A very tricky part is the reduction in the middle of the piece to account for Shiloh's deep chest.
 
 
-![picture mark 2 pattern](https://umdrive.memphis.edu/aolney/public/website-media/harness2018/mark2-pattern.jpg)
+![picture mark 2 pattern](https://blogs.memphis.edu/aolney/files/2019/10/mark2-pattern.jpg)
 
 I added some handles that spanned the strap, and it looked beautiful.
 
-![picture mark 2 handles](https://umdrive.memphis.edu/aolney/public/website-media/harness2018/mark2-handles.jpg)
+![picture mark 2 handles](https://blogs.memphis.edu/aolney/files/2019/10/mark2-handles.jpg)
 
 It also looked good on:
 
-![picture mark 2 handles worn](https://umdrive.memphis.edu/aolney/public/website-media/harness2018/mark2-handles-worn.jpg)
+![picture mark 2 handles worn](https://blogs.memphis.edu/aolney/files/2019/10/mark2-handles-worn.jpg)
 
 However I did not make the front strap part of my process, thinking I could add it on later.
 Sure I was able to do that, but it didn't look that great.
 
-![picture mark 2 strap](https://umdrive.memphis.edu/aolney/public/website-media/harness2018/mark2-strap.jpg)
+![picture mark 2 strap](https://blogs.memphis.edu/aolney/files/2019/10/mark2-strap.jpg)
 
-![picture mark 2 strap worn](https://umdrive.memphis.edu/aolney/public/website-media/harness2018/mark2-strap-worn.jpg)
+![picture mark 2 strap worn](https://blogs.memphis.edu/aolney/files/2019/10/mark2-strap-worn.jpg)
 
 Unfortunately the Mark 2 had some killer problems:
 
@@ -129,9 +129,9 @@ Because I had to use different stitches, the Mark 3 was a lot harder than the Ma
 Especially in the middle part with the reduction, where a half dozen different size stiches are needed to make that happen.
 Again, this is one continuous piece of string.
 
-![picture mark 3](https://umdrive.memphis.edu/aolney/public/website-media/harness2018/mark3.jpg)
+![picture mark 3](https://blogs.memphis.edu/aolney/files/2019/10/mark3.jpg)
 
-![picture mark 3 worn](https://umdrive.memphis.edu/aolney/public/website-media/harness2018/mark3-worn.jpg)
+![picture mark 3 worn](https://blogs.memphis.edu/aolney/files/2019/10/mark3-worn.jpg)
 
 The Mark 3 also has a few issues.
 Somehow it's a bit bigger around than I intended, so I've had to zip tie the buckles to try to offset.

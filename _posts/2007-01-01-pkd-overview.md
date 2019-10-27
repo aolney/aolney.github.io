@@ -5,7 +5,7 @@ title: PKD Android Project Overview
 category: Category
 tags: ['research','robots','pkd','nlp','semantics','discourse','project-overviews']
 ---
-![project logo](https://umdrive.memphis.edu/aolney/public/projects/pkd/PKD_Header.jpg)
+![project logo](https://blogs.memphis.edu/aolney/files/2019/10/PKD_Header.jpg)
 
 [Click here for all PKD Android posts](/tags/pkd.html)
 
@@ -19,7 +19,7 @@ The PKD Android is a conversational portrait of [Philip K. Dick](http://www.phil
 
 Of course it wasn't perfect, but a [lot of people got excited about sitting down and talking to a life sized android](tags/press.html).
 
-[Here is a little video that we shot that I really like](https://umdrive.memphis.edu/aolney/public/projects/pkd/pkdconvweb.mov). Also a bunch of [pictures](https://umdrive.memphis.edu/aolney/public/projects/pkd/PKDpics.zip) of various stages of construction.
+[Here is a little video that we shot that I really like](https://blogs.memphis.edu/aolney/files/2019/10/pkdconvweb.mov). Also a bunch of [pictures](https://blogs.memphis.edu/aolney/files/2019/10/PKDpics.zip) of various stages of construction.
 
 
 <iframe title="YouTube video player" class="youtube-player" type="text/html" src="//www.youtube.com/embed/fkE6RBlfbXA?rel=0&amp;wmode=opaque" frameborder="0" allowFullScreen="true" width="425" height="355"></iframe>

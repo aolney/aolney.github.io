@@ -6,7 +6,7 @@ category: Category
 tags: [ 'research', 'pkd', 'robots','nlp','semantics','discourse' ]
 ---
 
-![project logo](https://umdrive.memphis.edu/aolney/public/projects/pkd/PKD_Header.jpg?uniq=fpaqvw)
+![project logo](https://blogs.memphis.edu/aolney/files/2019/10/PKD_Header.jpg?uniq=fpaqvw)
 
 I’m releasing the source code under the MIT license. Because not all the software was open source to begin with, I can’t release everything – so this source won’t compile to a working version. Regardless, here it is if you want to play with it. All in C#.
 
@@ -20,4 +20,4 @@ Other issues? Well, there are some copyright issues over PKD’s works. The PKD 
 
 Enough already!
 
-[Get the source](https://umdrive.memphis.edu/aolney/public/projects/pkd/Open%20Source%20PKD%20Software.zip)
+[Get the source](https://blogs.memphis.edu/aolney/files/2019/10/Open-Source-PKD-Software.zip)

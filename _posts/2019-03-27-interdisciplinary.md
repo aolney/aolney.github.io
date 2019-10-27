@@ -9,7 +9,7 @@ Presented to the Graduate Student Association on interdiscplinary research: what
 
 Used an example of Klingon refrigerator magnets to distinguish between multidisciplinary and interdisciplinary.
 
-![whorf](https://umdrive.memphis.edu/aolney/public/website-media/whorf.jpg)
+![whorf](https://blogs.memphis.edu/aolney/files/2019/10/whorf.jpg)
 
 
 
