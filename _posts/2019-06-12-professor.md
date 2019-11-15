@@ -1,8 +1,8 @@
 ---
 layout: post
 section-type: post
-title: Promoted to Professor
+title: Professor
 category: Category
-tags: [ 'teaching', 'research', 'service', 'cv' ]
+tags: [ 'experience' ]
 ---
-Promoted to Professor of Intelligent Systems & Psychology.
+Professor, 2019 - , Institute for Intelligent Systems & Department of Psychology, University of Memphis, Memphis, TN.
