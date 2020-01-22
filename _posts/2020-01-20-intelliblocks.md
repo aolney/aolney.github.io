@@ -13,8 +13,8 @@ Since there are thousands of libraries out there, and they are constantly changi
 
 I created the intelliblocks for my [Applied Computational Linguistics class](https://olney.ai/tags/teaching.html), so current usage focuses on calling high-level NLP libraries with these blocks, but the mechanism is sufficiently general that they should be useful for any application.
 
-[//]: # (Below is a demonstration of the intelliblocks in action. 
+Below is a demonstration of the intelliblocks in action. 
 It is important to note that since intellisense comes **from the kernel**, the blocks cannot configure themselves until the code has been executed **on the kernel**. 
-This is necessarily true for dynamically typed languages like Python, though not for statically typed languages.)
+This is necessarily true for dynamically typed languages like Python, though not for statically typed languages.
 
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/70Q3RQi2KXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
