@@ -5,7 +5,7 @@ title: Multimodal Capture of Teacher-Student Interactions for Automated Dialogic
 category: Category
 tags: ['research','publications','conference-regular','class5','education-research','nlp','discourse']
 ---
-D’Mello, S. K., Olney, A. M., Blanchard, N., Samei, B., Sun, X., Ward, B., & Kelly, S. (2015). Multimodal Capture of Teacher-Student Interactions for Automated Dialogic Analysis in Live Classrooms. In Proceedings of the 2015 ACM on International Conference on Multimodal Interaction (pp. 557–566). New York, NY, USA: ACM. http://doi.org/10.1145/2818346.2830602
+D’Mello, S. K., Olney, A. M., Blanchard, N., Samei, B., Sun, X., Ward, B., & Kelly, S. (2015). Multimodal Capture of Teacher-Student Interactions for Automated Dialogic Analysis in Live Classrooms. In Proceedings of the 2015 ACM on International Conference on Multimodal Interaction (pp. 557–566). New York, NY, USA: ACM. https://doi.org/10.1145/2818346.2830602
 
 
 <object data="https://blogs.memphis.edu/aolney/files/2019/10/mla100-d-mello.pdf" type="application/pdf" width="100%" height="600px">

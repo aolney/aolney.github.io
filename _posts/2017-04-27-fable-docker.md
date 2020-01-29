@@ -5,7 +5,7 @@ title: Fable 1.0 in Linux Docker Container with dotnet
 category: Category
 tags: [ 'research', 'fsharp', 'braintrust' ]
 ---
-I've been working with a really fantastic [f# to javascript compiler called fable](http://fable.io/). Basically I can write f# programs, compile to javascript, and run in browser, node, or electron.
+I've been working with a really fantastic [f# to javascript compiler called fable](https://fable.io/). Basically I can write f# programs, compile to javascript, and run in browser, node, or electron.
 
 Fable has gone through a lot of changes the past year, and the latest version, 1.0, relies on [dotnet core](https://www.microsoft.com/net/core). While that seems a very nice idea, dotnet core itself is pretty new and tends to segfault on my platform of choice, Debian unstable.
 
@@ -39,6 +39,6 @@ This command:
 
 Once the command is executed I can go to the relevant fable repo and start issuing dotnet core commands, have them update the host file system with correctly permissioned files, and generally be happy.
 
-In the case of the awesome recent [fable-getting-started](https://github.com/fable-compiler/fable-getting-started), I would head over to the directory in question, `dotnet restore GettingStarted.sln` , `yarn install`, and then `yarn run watch`. An overview of the Fable 1.0 project structure and dotnet commands is [here](http://fable.io/blog/Introducing-1-0-beta.html).
+In the case of the awesome recent [fable-getting-started](https://github.com/fable-compiler/fable-getting-started), I would head over to the directory in question, `dotnet restore GettingStarted.sln` , `yarn install`, and then `yarn run watch`. An overview of the Fable 1.0 project structure and dotnet commands is [here](https://fable.io/blog/Introducing-1-0-beta.html).
 
 I considered adding vscode to the image, but with the frequent changes it sees, I didn't want to bother with updating and committing all the time. Maybe I will change my mind about that later. Something else that could potentially be improved is where dotnet restore keeps things. Currently this in in the container, to things will disappear when the container is restarted.

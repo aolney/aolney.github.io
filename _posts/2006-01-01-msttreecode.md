@@ -10,7 +10,7 @@ Minimum spanning tree algorithms have interesting implications for dependency pa
 
 In previous work on unsupervised grammar induction, I use this MST algorithm to determine which links are "best" using a semantic head relatedness criterion. At the time I was surprised by how little code was available besides the obvious and slow O(n^3).
 
-The linked code is [adapted from C++](http://www.di.unipi.it/optimize/Software/MSA.html) and has a nice O(n^2) property. 
+The linked code is [adapted from C++](https://www.di.unipi.it/optimize/Software/MSA.html) and has a nice O(n^2) property. 
 
 {% highlight csharp %}
 #region Contributions and License

@@ -12,7 +12,7 @@ tags: ['research','its','gnututor','nlp','semantics','discourse','education-rese
 
 GnuTutor is an open source re-imagining of the intelligent tutoring system AutoTutor developed at the Institute for Intelligent Systems at the University of Memphis. GnuTutor has a simple codebase to foster development of derivative ITS.
 
-GnuTutor is written in C# and should run on Window, Linux, and OSX using [Mono](http://www.mono-project.com/Main_Page)
+GnuTutor is written in C# and should run on Window, Linux, and OSX using [Mono](https://www.mono-project.com/Main_Page)
 
 GnuTutor is hosted on [Sourceforge](https://sourceforge.net/projects/gnututor/)
 
@@ -37,7 +37,7 @@ to the correct path of the Databases and LogFiles folders.
 
 Next you will need to install some of the agent libraries/executables depending on what agent you want to use. If you are on windows, install the Haptek Player
 
-http://www.haptek.com/products/player/
+https://www.haptek.com/products/player/
 
 This should solve any broken dependencies. Or you could just remove them and rebuild.
 
@@ -63,7 +63,7 @@ How do I use this on a non-Windows platform?
 
 The GnuTutor source is all in C#, and so is inherently cross platform under Mono. There is no need to recompile (actually this is an over statement: I have some "easy" MS agents set up by default in the release, you need to comment these out and recompile for linux/osx), just run GnuTutor as you would any other program in Mono. However, GnuTutor can link to a variety of agents; these agents are not part of the GnuTutor source. Some of these work only with Windows (e.g. MSAgent and Haptek, though these might possibly run under Wine) others, such as XFace should run under Linux and OSX, but may require some additional tweaking, either in the configuration file or an actual cross compile.
 
-The best way to proceed is in two stages. First, get GnuTutor running under Mono with no agent or voice (you can just pass the tutor's response back to the response box in the GUI). Once that works (it should be trivial), consult the documentation for using your desired agent technology on your platform of choice. In virtually all cases this will include both the agent and the speech engine; it may be easy for one and not the other. Currently the best open source, cross platform voices are in the Open Mary package http://mary.dfki.de/
+The best way to proceed is in two stages. First, get GnuTutor running under Mono with no agent or voice (you can just pass the tutor's response back to the response box in the GUI). Once that works (it should be trivial), consult the documentation for using your desired agent technology on your platform of choice. In virtually all cases this will include both the agent and the speech engine; it may be easy for one and not the other. Currently the best open source, cross platform voices are in the Open Mary package https://mary.dfki.de/
 
 Some example files for showing how to comment out MS stuff are below.
 
@@ -87,7 +87,7 @@ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 GNU General Public License for more details.
 
 You should have received a copy of the GNU General Public License
-along with GnuTutor.  If not, see <http://www.gnu.org/licenses/>.
+along with GnuTutor.  If not, see <https://www.gnu.org/licenses/>.
 */
 #endregion
 using System;
@@ -338,7 +338,7 @@ sudo apt-get install libsuitesparse-dev libarpack2-dev
 
 You also need to install the arpack from octave forge.
 
-http://downloads.sourceforge.net/octave/arpack-1.0.8.tar.gz?download
+https://downloads.sourceforge.net/octave/arpack-1.0.8.tar.gz?download
 
 This is as easy as downloading the arpack package, opening a octave shell in that directory, and typing 'pkg install arpack-1.0.8.tar.gz'
 

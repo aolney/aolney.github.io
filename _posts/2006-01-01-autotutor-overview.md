@@ -15,7 +15,7 @@ It works with virtually no knowledge engineering: AutoTutor domains can be devel
 
 People improve by about a letter grade after interacting with AutoTutor in our experiments.
 
-The AutoTutor web site is [here](http://www.autotutor.org/)
+The AutoTutor web site is [here](https://www.autotutor.org/)
 
 A demo video of an interactive session is [here](https://blogs.memphis.edu/aolney/files/2019/10/ATInteractive.avi)
 

@@ -20,7 +20,7 @@ The idea here is to simulate a MIDI keyboard and then route the messages it gene
 Pure Data can then interpret those messages as commands to a synth (play this note for this long). 
 As simple as that sounds, it took a bit of hacking to get it working on the Chromebook.
 
-The first gotcha is to use a really old virtual MIDI keyboard, [vkeybd](http://ccrma.stanford.edu/planetccrma/man/man1/vkeybd.1.html).
+The first gotcha is to use a really old virtual MIDI keyboard, [vkeybd](https://ccrma.stanford.edu/planetccrma/man/man1/vkeybd.1.html).
 The reason is that vkeybd uses ALSA as opposed to JACK, and while this is less ideal from a performance standpoint, it seems to be all the Chromebook can currently handle.
 JACK installations of any type completely broke sound on my Chromebook.
 

@@ -13,7 +13,7 @@ tags: [ 'research', 'fsharp','nlp' ]
 
 *Post reconstructed from Google Plus*
 
-You can use PythonNet with the dynamic keyword as described [here](https://github.com/tonyroberts/pythonnet) , but in F# you can make this a bit nicer using  FSharp.Interop.Dynamic from Nuget. The trick is to install the develop branch of PythonNet (with PYTHON34 defined in project options), the 3.4 CPython and NLTK for Windows as described [here](http://www.nltk.org/install.html) and reference the PythonNet and nuget package in an F# console app. The Nuget allows you to use "?" for the dynamic (late binding) calls. The only thing I can't get to work is the numpy array. Also it seems that when multiple "?" are used in the same line, breakpoints time out by the time evaluation hits them. Thus the printfns for output.
+You can use PythonNet with the dynamic keyword as described [here](https://github.com/tonyroberts/pythonnet) , but in F# you can make this a bit nicer using  FSharp.Interop.Dynamic from Nuget. The trick is to install the develop branch of PythonNet (with PYTHON34 defined in project options), the 3.4 CPython and NLTK for Windows as described [here](https://www.nltk.org/install.html) and reference the PythonNet and nuget package in an F# console app. The Nuget allows you to use "?" for the dynamic (late binding) calls. The only thing I can't get to work is the numpy array. Also it seems that when multiple "?" are used in the same line, breakpoints time out by the time evaluation hits them. Thus the printfns for output.
 
 ```
 open Python.Runtime

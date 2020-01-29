@@ -9,4 +9,4 @@ Lucy Shores graduated with a B.A. in Psychology & Computer Science from Rhodes C
 
 I had the good fortune of advising an independent study with her on research that was later funded.
 
-Lucy is continuing her Ph.D. studies at [North Carolina State University](http://www4.ncsu.edu/~lrshores/)
+Lucy is continuing her Ph.D. studies at [North Carolina State University](https://www4.ncsu.edu/~lrshores/)

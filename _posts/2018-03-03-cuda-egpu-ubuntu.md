@@ -75,10 +75,10 @@ You still need to authorize (if you do this when it is already authorized, you w
 
 #### CUDA install
 - Open Software & Updates, go to Additional Drivers, and install nvidia-driver-390. 
-- [Follow the Pre-installation Actions of CUDA 9.1](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/#pre-installation-actions)
-- [Follow the Ubuntu package installation instructions](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#ubuntu-installation) **BUT** when you get to "5. Install CUDA" **DO THIS INSTEAD**
+- [Follow the Pre-installation Actions of CUDA 9.1](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/#pre-installation-actions)
+- [Follow the Ubuntu package installation instructions](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#ubuntu-installation) **BUT** when you get to "5. Install CUDA" **DO THIS INSTEAD**
 `sudo apt install cuda-toolkit-9-1 cuda-libraries-dev-9-1 cuda-libraries-9-1` which will install everything but the driver. You don't want the driver in the `cuda` package (387), you want the one you already installed (390).
-- [Follow the Post-installation Actions](http://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#post-installation-actions). I don't think you need to do the `nvidia-persistenced` part because the package installation seems to take care of that for you. If you reboot and later find this missing, you can always add it manually. I also didn't find it necessary to mess with disabling the `udev` rule as was described in the guide.
+- [Follow the Post-installation Actions](https://docs.nvidia.com/cuda/cuda-installation-guide-linux/index.html#post-installation-actions). I don't think you need to do the `nvidia-persistenced` part because the package installation seems to take care of that for you. If you reboot and later find this missing, you can always add it manually. I also didn't find it necessary to mess with disabling the `udev` rule as was described in the guide.
 - Go ahead and follow the [recommended actions](cuda-install-samples-9.1.sh). This will verify that everything is working, i.e. when you run `nvidia-smi` or `deviceQuery` you see your eGPU listed.
 
 ## Conclusion

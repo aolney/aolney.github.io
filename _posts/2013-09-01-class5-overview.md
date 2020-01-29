@@ -11,4 +11,4 @@ Marty Nystrand (University of Wisconsin, Madison) and colleagues have found that
 
 We are trying to automate their process, which currently relies on human observers, with speech recognition and natural language understanding tools.
 
-[The main project website is here](http://class.wceruw.org/)
+[The main project website is here](https://class.wceruw.org/)

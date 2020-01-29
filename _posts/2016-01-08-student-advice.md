@@ -22,7 +22,7 @@ The **BEST** thing you can do is find a professor whose work you find exciting a
 A lot of people have weighed in on this topic. I particularly like the following:
 
 - [Ryan Adams](https://art19.com/shows/talking-machines/episodes/5e04c7b2-e539-419e-9498-bcd686159d71)
-- [Mark Johnson](http://web.science.mq.edu.au/~mjohnson/Grad-applicants.htm)
-- [Ronald Azuma](http://www.cs.unc.edu/~azuma/hitch4.html)
+- [Mark Johnson](https://web.science.mq.edu.au/~mjohnson/Grad-applicants.htm)
+- [Ronald Azuma](https://www.cs.unc.edu/~azuma/hitch4.html)
 
 And of course students can always come talk to me. 

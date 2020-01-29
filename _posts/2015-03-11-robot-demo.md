@@ -15,7 +15,7 @@ tags: [ 'service', 'outreach','robots' ]
 
 Demos for Campus School today -- robots!
 
-[Tiger Trek Intersession](http://uofmtigertrek.blogspot.com/)
+[Tiger Trek Intersession](https://uofmtigertrek.blogspot.com/)
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/dist/pa-embed-player.min.js" async></script>
 <div class="pa-embed-player" style="width:100%; height:480px; display:none;"

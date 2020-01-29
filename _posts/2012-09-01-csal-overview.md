@@ -13,5 +13,5 @@ The participants in our work will be adults who read between the 3rd and 8th gra
 
 We will develop a web-based instructional adjunct to facilitate increased engagement by adult learners and greater reading experience inside and outside the classroom. 
 
-[The main project website is here](http://csal.gsu.edu/)
+[The main project website is here](https://csal.gsu.edu/)
 

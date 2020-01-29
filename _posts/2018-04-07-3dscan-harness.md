@@ -41,12 +41,12 @@ My original plan was to import the model directly into free software that would 
 Unfortunately, though I tried a number of programs, none of them worked (either they did not function at all or did not have the functionality to take my model, design a pattern on it, and export a pattern).
 Here are a list of the things I looked at/tried:
 
-- [Sensitive Couture](http://www.cs.columbia.edu/cg/SC/)
+- [Sensitive Couture](https://www.cs.columbia.edu/cg/SC/)
 - [Patternfy](https://github.com/caretdashcaret/Patternfy)
-- [Plushie](http://www.geocities.jp/igarashi_lab/plushie/index-e.html)
-- [SmoothTeddy](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/java/smoothteddy/index.html)
-- [Teddy](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/teddy/teddy.htm)
-- [Chameleon](http://www-ui.is.s.u-tokyo.ac.jp/~takeo/chameleon/chameleon.htm)
+- [Plushie](https://www.geocities.jp/igarashi_lab/plushie/index-e.html)
+- [SmoothTeddy](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/java/smoothteddy/index.html)
+- [Teddy](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/teddy/teddy.htm)
+- [Chameleon](https://www-ui.is.s.u-tokyo.ac.jp/~takeo/chameleon/chameleon.htm)
 
 What I ended up doing was more low level, loosely related [to this MAKE post](https://makezine.com/projects/make-38-cameras-and-av/video-game-plushies/).
 Bascially you take your model and do an UV unwrap on it to get a "pattern" though the pattern is now dimensionless.

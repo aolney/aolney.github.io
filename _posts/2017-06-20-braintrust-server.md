@@ -18,11 +18,11 @@ sudo apt-get install openssh-server libappindicator1  openjdk-8-jdk xfce4 xfce4-
 
 Proceed to [set up ssh and ufw](https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-16-04)
 
-Install [mono and fsharp from specific repo](http://fsharp.org/use/linux/)
+Install [mono and fsharp from specific repo](https://fsharp.org/use/linux/)
 
 ```
  278  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv-keys 3FA7E0328081BFF6A14DA29AA6A19B38D3D831EF
-  279  echo "deb http://download.mono-project.com/repo/ubuntu xenial main" | sudo tee /etc/apt/sources.list.d/mono-official.list
+  279  echo "deb https://download.mono-project.com/repo/ubuntu xenial main" | sudo tee /etc/apt/sources.list.d/mono-official.list
   280  sudo apt-get update
   281  sudo apt-get install mono-complete fsharp
 ```
@@ -45,7 +45,7 @@ Install [mongodb from a specific repo](https://docs.mongodb.com/manual/tutorial/
 ```
    92  sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 0C49F3730359A14518585931BC711F9BA15703C6
    93  cat /etc/apt/sources.list
-   94  echo "deb [ arch=amd64,arm64 ] http://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.4 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.4.list
+   94  echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/3.4 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-3.4.list
    95  sudo apt-get update
    96  sudo apt-get install -y mongodb-org
    97  sudo service mongod start

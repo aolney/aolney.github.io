@@ -8,7 +8,7 @@ tags: [ 'research','discourse','dogs' ]
 ![picture facing](https://blogs.memphis.edu/aolney/files/2019/10/grass_facing.jpg)
 Shiloh and I are FEMA Type III certified in Wilderness Air Scent, Air Scent (Discriminatory) certified by the Network of Canine Detection Services, and I am a certified SARTECH II evaluator.
 
-We train with the [Mid South Search and Rescue Dog Association.](http://mssarda.org/)
+We train with the [Mid South Search and Rescue Dog Association.](https://mssarda.org/)
 
 Shiloh has contributed to at least 1 publication.
 

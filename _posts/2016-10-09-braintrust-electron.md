@@ -17,4 +17,4 @@ After a ton of design work considering
 
 I decided to use [Electron](https://github.com/electron/electron-quick-start), which is really a Node/Chrome application that presents itself as a desktop application, in order for BrainTrust to be as cross platform as Chrome is.
 
-Additionally, I decided to develop using [Fable](http://fable.io/), a very cool transpiler that lets me code in F# and compile to Javascript.
+Additionally, I decided to develop using [Fable](https://fable.io/), a very cool transpiler that lets me code in F# and compile to Javascript.

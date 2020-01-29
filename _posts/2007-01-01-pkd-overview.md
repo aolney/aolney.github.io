@@ -11,7 +11,7 @@ tags: ['research','robots','pkd','nlp','semantics','discourse','project-overview
 
 David Hanson and I collaborated on the PKD Android.
 
-The PKD Android is a conversational portrait of [Philip K. Dick](http://www.philipkdick.com/). It is supposed to:
+The PKD Android is a conversational portrait of [Philip K. Dick](https://www.philipkdick.com/). It is supposed to:
 
 - Look like him
 - Talk like him
