@@ -17,7 +17,3 @@ Previous posts:
 
 - [Fable Jupyterlab Blockly Extension](https://olney.ai/category/2019/12/27/jupyterlabblockly.html)
 - [Intelliblocks](https://olney.ai/category/2020/01/20/intelliblocks.html)
-
-My [Fable Jupyterlab Blockly Extension](https://olney.ai/category/2019/12/27/jupyterlabblockly.html) now has intelliblocks - blocks that use intellisense to call properties and functions on any Python library.
-
-
