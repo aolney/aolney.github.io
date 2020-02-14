@@ -269,6 +269,12 @@ text-align:left;
     }
 }
 
+/* andrew fixing font awesome brands 4.7 */
+.ao-fa-fw {
+    width: 1.28571429em;
+    text-align: right;
+}
+
 /* andrew messing with lists */
 .test{text-align:center}
 .test ul{

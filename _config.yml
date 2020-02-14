@@ -145,17 +145,17 @@ cv-link: "https://drive.google.com/open?id=1qwixNXbTchPl_SbSiTqyKeeQOFmNOXrf"
 # Students#
 ###########
 people:
-# - pic: "/img/team/borhan.jpg"
-#   link: "https://umdrive.memphis.edu/bsamei/public/"
-#   name: Borhan Samei
-#   position: Ph.D. Candidate, Computer Science
-#   social:
-#     - title: google-plus
-#       url: "https://plus.google.com/118424456688736358978"
-#     - title: linkedin
-#       url: "http://ir.linkedin.com/pub/borhan-samei/56/738/91"
-#     - title: random
-#       url: "https://www.researchgate.net/profile/Borhan_Samei"
+ - pic: "/img/team/paul.jpg"
+   link: "https://paulwanderson1999.wixsite.com/paul"
+   name: Paul Anderson
+   position: Ph.D. Candidate, Psychology
+   social:
+     - title: linkedin
+       url: "https://www.linkedin.com/in/paul-anderson-918ab21a1/"
+     - title: twitter
+       url: "https://twitter.com/_Paul_W"
+     - title: random
+       url: "https://www.researchgate.net/profile/Paul_Anderson30"
 #     - title: google
 #       url: "https://scholar.google.com/citations?user=PRwePVUAAAAJ&hl=en&oi=ao"
 # - pic: "/img/team/davis.jpg"
