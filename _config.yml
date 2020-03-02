@@ -156,6 +156,13 @@ people:
        url: "https://twitter.com/_Paul_W"
      - title: random
        url: "https://www.researchgate.net/profile/Paul_Anderson30"
+ - pic: "/img/team/jeff.jpg"
+   link: "https://sites.google.com/view/jeffreyyarbroms"
+   name: Jeff Yarbro
+   position: M.S. Candidate, Elec. & Comp. Engineering
+   social:
+     - title: github
+       url: "https://github.com/imjeffhi4"
 #     - title: google
 #       url: "https://scholar.google.com/citations?user=PRwePVUAAAAJ&hl=en&oi=ao"
 # - pic: "/img/team/davis.jpg"
