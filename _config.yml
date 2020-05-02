@@ -159,7 +159,7 @@ people:
  - pic: "/img/team/jeff.jpg"
    link: "https://sites.google.com/view/jeffreyyarbroms"
    name: Jeff Yarbro
-   position: M.S. Candidate, Elec. & Comp. Engineering
+   position: M.S. Candidate, E&CE
    social:
      - title: github
        url: "https://github.com/imjeffhi4"
@@ -171,12 +171,16 @@ people:
  - pic: "/img/team/unclesam.jpg"
    link: "/category/2016/01/08/student-advice.html"
    name: Your Name Here!
+   position: "General advice for students"
+   social:
+     - title: power-off
+       url: "/category/2016/01/08/student-advice.html"
  - pic: "/img/team/rosetta.jpg"
    link: "/tags/advising.html"
    name: Former Students
 
 
-recruit-message: "If you are interested in working with me, please send me an email. [Here is some general advice for students](/category/2016/01/08/student-advice.html)"
+#recruit-message: "If you are interested in working with me, please send me an email. [Here is some general advice for students](/category/2016/01/08/student-advice.html)"
 
 ###########
 # Contact #

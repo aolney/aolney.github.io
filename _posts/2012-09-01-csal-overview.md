@@ -15,3 +15,5 @@ We will develop a web-based instructional adjunct to facilitate increased engage
 
 [The main project website is here](https://csal.gsu.edu/)
 
+Stevens Amendment Notice: This project will be 100% financed with Federal funds at a dollar amount of $1,240,151. No non-governmental funds will be used to finance this project. 
+

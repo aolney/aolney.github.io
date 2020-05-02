@@ -12,3 +12,5 @@ The new implementation uses [AllenNLP](https://allennlp.org/) and [spaCy](https:
 The final deployment is [actually in Meteor](https://github.com/memphis-iis/mofacts-ies), so I use Fable to output a Node target as well.
 
 You can check out the code [here](https://github.com/aolney/mofacts-automated-authoring) or play with the [live demo here](https://olney.ai/mofacts-automated-authoring/), but the Docker services won't work unless you are on the University of Memphis campus.
+
+Stevens Amendment Notice: This project is 100% financed with Federal funds at a dollar amount of $1,240,151. No non-governmental funds have been used to finance this project. 
