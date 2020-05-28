@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: JupyterLab/Blockly Extension - Data Science Example
 category: Category
-tags: ['research','education-research','datawhys','fsharp', 'data-science','machine-learning','programming','statistics']
+tags: ['research','education-research','datawhys','fsharp', 'data-science','machine-learning','programming','statistics','ldi']
 ---
 
 Here is a brief video introduction to the Fable Jupyterlab Blockly Extension with a data science example using the Iris dataset. 

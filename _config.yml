@@ -145,6 +145,7 @@ cv-link: "https://drive.google.com/open?id=1qwixNXbTchPl_SbSiTqyKeeQOFmNOXrf"
 # Students#
 ###########
 people:
+#paul
  - pic: "/img/team/paul.jpg"
    link: "https://paulwanderson1999.wixsite.com/paul"
    name: Paul Anderson
@@ -156,6 +157,7 @@ people:
        url: "https://twitter.com/_Paul_W"
      - title: random
        url: "https://www.researchgate.net/profile/Paul_Anderson30"
+#jeff
  - pic: "/img/team/jeff.jpg"
    link: "https://sites.google.com/view/jeffreyyarbroms"
    name: Jeff Yarbro
@@ -163,11 +165,17 @@ people:
    social:
      - title: github
        url: "https://github.com/imjeffhi4"
-#     - title: google
-#       url: "https://scholar.google.com/citations?user=PRwePVUAAAAJ&hl=en&oi=ao"
-# - pic: "/img/team/davis.jpg"
-#   name: Davis Whaley
-#   position: M.S. Candidate, Psychology
+#john
+ - pic: "/img/team/john-hollander.jpg"
+   link: https://sites.google.com/view/johnhollander/home"
+   name: John Hollander
+   position: "Ph.D. Candidate, Psychology"
+   social:
+     - title: google
+       url: "https://scholar.google.com/citations?user=gqDekX4AAAAJ&hl=en"
+     - title: random
+       url: "https://www.researchgate.net/profile/John_Hollander"
+#you here
  - pic: "/img/team/unclesam.jpg"
    link: "/category/2016/01/08/student-advice.html"
    name: Your Name Here!
@@ -175,6 +183,7 @@ people:
    social:
      - title: power-off
        url: "/category/2016/01/08/student-advice.html"
+#former
  - pic: "/img/team/rosetta.jpg"
    link: "/tags/advising.html"
    name: Former Students

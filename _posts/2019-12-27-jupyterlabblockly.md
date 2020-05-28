@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Fable JupyterLab Blockly Extension
 category: Category
-tags: ['research','education-research','datawhys','fsharp','data-science','machine-learning','programming','statistics']
+tags: ['research','education-research','datawhys','fsharp','data-science','machine-learning','programming','statistics','ldi']
 ---
 A [JupyterLab](https://jupyterlab.readthedocs.io/en/stable/) [extension](https://jupyterlab.readthedocs.io/en/stable/user/extensions.html) that adds a [Blockly](https://developers.google.com/blockly) palette might be a good way to teach non-programmers data science!
 

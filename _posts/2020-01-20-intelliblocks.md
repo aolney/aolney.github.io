@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Intelliblocks for the JupyterLab/Blockly Extension
 category: Category
-tags: ['research','education-research','datawhys','fsharp', 'data-science','machine-learning','programming','statistics']
+tags: ['research','education-research','datawhys','fsharp', 'data-science','machine-learning','programming','statistics','ldi']
 ---
 My [Fable Jupyterlab Blockly Extension](https://olney.ai/category/2019/12/27/jupyterlabblockly.html) now has intelliblocks - blocks that use intellisense to call properties and functions on any Python library.
 

@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Memphis Civic Data Hackathon
 category: Category
-tags: [ 'service', 'outreach','data-science','datawhys' ]
+tags: [ 'service', 'outreach','data-science','datawhys','ldi' ]
 ---
 I served as a judge for the first [Memphis Civic Data Hackathon](https://memphisdatahack.com/).
 
