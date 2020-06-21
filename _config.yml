@@ -157,14 +157,22 @@ people:
        url: "https://twitter.com/_Paul_W"
      - title: random
        url: "https://www.researchgate.net/profile/Paul_Anderson30"
-#jeff
- - pic: "/img/team/jeff.jpg"
-   link: "https://sites.google.com/view/jeffreyyarbroms"
-   name: Jeff Yarbro
-   position: M.S. Candidate, E&CE
+
+#jill
+ - pic: "/img/team/jill.jpg"
+   link: "https://vemiotics.com/"
+   name: Jillian Johnson
+   position: "Cognitive Science Cert, IIS"
    social:
+     - title: linkedin
+       url: "https://www.linkedin.com/in/jilloojohnson/"
+     - title: twitter
+       url: "https://twitter.com/vemiotics"
      - title: github
-       url: "https://github.com/imjeffhi4"
+       url: "https://github.com/vemiotics/"
+     - title: soundcloud
+       url: "https://soundcloud.com/boobwindow"
+
 #john
  - pic: "/img/team/john-hollander.jpg"
    link: https://sites.google.com/view/johnhollander/home"
@@ -175,6 +183,16 @@ people:
        url: "https://scholar.google.com/citations?user=gqDekX4AAAAJ&hl=en"
      - title: random
        url: "https://www.researchgate.net/profile/John_Hollander"
+
+#jeff
+ - pic: "/img/team/jeff.jpg"
+   link: "https://sites.google.com/view/jeffreyyarbroms"
+   name: Jeff Yarbro
+   position: M.S. Candidate, E&CE
+   social:
+     - title: github
+       url: "https://github.com/imjeffhi4"
+
 #you here
  - pic: "/img/team/unclesam.jpg"
    link: "/category/2016/01/08/student-advice.html"
@@ -206,8 +224,8 @@ social:
 #    url: "https://facebook.com/"
   - title: "linkedin"
     url: "https://www.linkedin.com/in/andrewolney"
-#  - title: "twitter"
-#    url: "https://twitter.com/"
+  - title: "twitter"
+    url: "https://twitter.com/andrewolney1"
   - title: "github"
     url: "https://github.com/aolney"
   - title: "stack-overflow"
