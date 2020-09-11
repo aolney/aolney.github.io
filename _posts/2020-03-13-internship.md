@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: DataWhys Summer Internship Program 2020
+title: Announcing DataWhys Summer Internship Program 2020
 category: Category
 tags: ['research','education-research','datawhys', 'data-science','machine-learning','programming','statistics','service','outreach']
 ---

@@ -21,3 +21,4 @@ _posts.bk
 checkedURLs.txt
 shell.log
 .ipynb_checkpoints/*
+.jekyll-cache/
