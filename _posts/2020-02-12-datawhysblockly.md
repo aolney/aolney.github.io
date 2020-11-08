@@ -17,3 +17,5 @@ Previous posts:
 
 - [Fable Jupyterlab Blockly Extension](https://olney.ai/category/2019/12/27/jupyterlabblockly.html)
 - [Intelliblocks](https://olney.ai/category/2020/01/20/intelliblocks.html)
+
+[![NSF award information](/img/nsf-logo.png "NSF award information")](https://nsf.gov/awardsearch/showAward?AWD_ID=1918751&HistoricalAwards=false)

@@ -18,3 +18,7 @@ It is important to note that since intellisense comes **from the kernel**, the b
 This is necessarily true for dynamically typed languages like Python, though not for statically typed languages.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/70Q3RQi2KXc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<br>
+
+[![NSF award information](/img/nsf-logo.png "NSF award information")](https://nsf.gov/awardsearch/showAward?AWD_ID=1918751&HistoricalAwards=false)

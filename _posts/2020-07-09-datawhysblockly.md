@@ -19,3 +19,5 @@ Previous posts:
 - [Data science example](https://olney.ai/category/2020/02/12/datawhysblockly.html)
 - [Intelliblocks](https://olney.ai/category/2020/01/20/intelliblocks.html)
 - [Fable Jupyterlab Blockly Extension](https://olney.ai/category/2019/12/27/jupyterlabblockly.html)
+
+[![NSF award information](/img/nsf-logo.png "NSF award information")](https://nsf.gov/awardsearch/showAward?AWD_ID=1918751&HistoricalAwards=false)

@@ -33,8 +33,10 @@ Andrew Olney (aolney@memphis.edu). Decision notifications will be sent
 out in early May.
 
 The DataWhys Project and internship are supported by the National
-Science Foundation through Grant R305A190448 for to the University of
+Science Foundation through Grant 1918751 for to the University of
 Memphis.
+
+[![NSF award information](/img/nsf-logo.png "NSF award information")](https://nsf.gov/awardsearch/showAward?AWD_ID=1918751&HistoricalAwards=false)
 
 -----------------------------------------------------
 

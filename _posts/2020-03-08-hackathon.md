@@ -21,3 +21,7 @@ The local teams put on some outstanding presentations of their projects, and the
   <object data="https://lh3.googleusercontent.com/FFqCMdXMKf0XRyRu4SuAU1LRTOD2pRjqveb5A0oDUo8y4Hl_ND4Ib01w70i39lW3qenWDXoyxUpNmYRraeePznRmIyqMm5E303i-CHf7-BdWqNvp4jLTs8RZTPHlT9MLiMkzk9udPSk=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/KhhXBZA3tz4Vpxcymm69akN-hRbTqmbHn9rs5gXdFFDNE94BMZpqskzhrrEr_fhwcWEztjwh0-9oa4QEV5KB9nWIbNJRa92Kw6ubP6r3vnRag_-uyJsTPRX-PpRJZqz8psnNqfYwOMM=w1920-h1080"></object>
 </div>
+
+<br>
+
+[![NSF award information](/img/nsf-logo.png "NSF award information")](https://nsf.gov/awardsearch/showAward?AWD_ID=1918751&HistoricalAwards=false)

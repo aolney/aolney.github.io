@@ -14,3 +14,5 @@ The problem we face is that while we know how to train people in statistics, pro
 Our grant work will focus on understanding the deep prerequisite knowledge in these fields and how to integrate them in an efficient training program for emerging data scientists across all levels. Our training program will leverage adaptive learning technologies and be embedded in the tools data scientists use every day so that workers can learn on the job. 
 
 Further details about the award are [here.](https://nsf.gov/awardsearch/showAward?AWD_ID=1918751&HistoricalAwards=false)
+
+[![NSF award information](/img/nsf-logo.png "NSF award information")](https://nsf.gov/awardsearch/showAward?AWD_ID=1918751&HistoricalAwards=false)

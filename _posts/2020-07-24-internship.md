@@ -37,5 +37,7 @@ Hopefully we will be face to face next year!
 ![A simulated group photo, COVID-style](https://blogs.memphis.edu/aolney/files/2020/09/Summer2020interns_group_photo_LPayne.jpggroup.jpg)
 
 The DataWhys Project and internship are supported by the National
-Science Foundation through Grant R305A190448 for to the University of
+Science Foundation through Grant 1918751 for to the University of
 Memphis.
+
+[![NSF award information](/img/nsf-logo.png "NSF award information")](https://nsf.gov/awardsearch/showAward?AWD_ID=1918751&HistoricalAwards=false)
