@@ -13,7 +13,7 @@ Along the way, interns will work closely with faculty and graduate student mento
 
 Accepted interns will be paid $14/hr. and are expected to attend **online** from 10–4pm, Monday through Thursday (with an hour for lunch), from May 31, 2021 to July 23, 2021. The program is limited to 15 students, so priority will be given to students closer to graduation. Applicants must be students at LeMoyne-Owen College and eligible to work in the U.S.  
 
-Students should apply online at https://forms.gle/eAdR1C1GDwtgQymT9. Applications will close at 11:59 PM CST on April 12, 2021. Each application should be supported by two letters of reference emailed to Andrew Olney (aolney@memphis.edu). Decision notifications will be sent out at the end of April. 
+Students should apply online at <https://forms.gle/eAdR1C1GDwtgQymT9>. Applications will close at 11:59 PM CST on April 12, 2021. Each application should be supported by two letters of reference emailed to Andrew Olney (aolney@memphis.edu). Decision notifications will be sent out at the end of April. 
 
 The DataWhys Project and internship are supported by the National
 Science Foundation through Grant 1918751 for to the University of
