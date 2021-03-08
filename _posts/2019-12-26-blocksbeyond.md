@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: A Cognitive Load Perspective on the Design of Blocks Languages for Data Science.
 category: Category
-tags: ['publications','research','education-research','conference-short','datawhys','data-science','programming','ldi']
+tags: ['publications','research','education-research','conference-short','datawhys','data-science','programming','ldi','blocks']
 ---
 
 Olney, A. M., & Fleming, S. D. (2019). A Cognitive Load Perspective on the Design of Blocks Languages for Data Science. 2019 IEEE Blocks and Beyond Workshop (B B), 95–97. https://doi.org/10.1109/BB48857.2019.8941224
