@@ -6,15 +6,12 @@ category: Category
 tags: ['publications','research','education-research','datawhys','mofacts','ldi','braintrust','conference-short','discourse', 'nlp']
 ---
 
-Olney, A. M. (2021). Paraphrasing Academic Text: A Study of Backtranslating Anatomy and Physiology with Transformers. Proceedings of the International Conference of Artificial Intelligence in Education.
+Olney, A. M. (2021). Paraphrasing Academic Text: A Study of Back-Translating Anatomy and Physiology with Transformers. In I. Roll, D. McNamara, S. Sosnovsky, R. Luckin, & V. Dimitrova (Eds.), Proceedings of the 22nd International Conference on Artificial Intelligence in Education (pp. 279–284). Springer International Publishing.
 
-**Accepted - full citation and PDF as they become available**
-
-
-<!-- <object data="https://blogs.memphis.edu/aolney/files/2020/07/Pavlik2020-aied-intelligent-textbook.pdf" type="application/pdf" width="100%" height="600px">
+<object data="https://blogs.memphis.edu/aolney/files/2021/06/Olney2021-aied-paraphrase.pdf" type="application/pdf" width="100%" height="600px">
  
   <p>It appears you don't have a PDF plugin for this browser.
-  No biggie... you can <a href="https://blogs.memphis.edu/aolney/files/2020/07/Pavlik2020-aied-intelligent-textbook.pdf">click here to
+  No biggie... you can <a href="https://blogs.memphis.edu/aolney/files/2021/06/Olney2021-aied-paraphrase.pdf">click here to
   download the PDF file.</a></p>
   
-</object> -->
+</object>
