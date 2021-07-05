@@ -8,6 +8,8 @@ tags: ['publications','research','education-research','conference-short','datawh
 
 Olney, A. M., & Fleming, S. D. (2021). JupyterLab Extensions for Blocks Programming, Self-Explanations, and HTML Injection. Proceedings of the 5th Educational Data Mining in Computer Science Education Workshop.
 
+[Extensions and links to code on NPM](https://www.npmjs.com/~aolney).
+
 **Accepted - full citation and PDF as they become available**
 
 <!-- 
