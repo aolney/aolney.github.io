@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Special Issue on Creating and Improving Adaptive Learning - Smart Authoring Tools and Processes (IJAIED)
 category: Category
-tags: ['publications','research','education-research','datawhys','mofacts','ldi','braintrust','editor']
+tags: ['publications','research','education-research','datawhys','mofacts','ldi','its','braintrust','editor']
 ---
 My coeditors Stephen Gilbert and Kelly Rivers and I have finished an [IJAIED](https://link.springer.com/journal/40593) special issue on authoring tools for adaptive learning systems, which is [now available](https://link.springer.com/journal/40593/topicalCollection/AC_d47d1642e3402a9a8134c35afb7851c8).
 
