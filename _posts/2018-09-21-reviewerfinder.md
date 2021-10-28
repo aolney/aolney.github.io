@@ -16,3 +16,6 @@ The overall approach is high recall, low precision because `pke` is inherently l
 
 Everything is [on GitHub](https://github.com/aolney/jedm-reviewer-finder), which is also [used for hosting](https://olney.ai/jedm-reviewer-finder/).
 
+Demo:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4HdtmNxaaKM" title="JEDM Reviewer Finder" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
