@@ -9,7 +9,7 @@ My coeditors Stephen Gilbert and Kelly Rivers and I have finished an [IJAIED](ht
 
 Our short introduction below describes the four papers in the special issue.
 
-Olney, A. M., Gilbert, S. B., & Rivers, K. (2021). Preface to the Special Issue on Creating and Improving Adaptive Learning: Smart Authoring Tools and Processes. International Journal of Artificial Intelligence in Education. https://doi.org/10.1007/s40593-021-00277-9
+Olney, A. M., Gilbert, S. B., & Rivers, K. (2021). Preface to the Special Issue on Creating and Improving Adaptive Learning: Smart Authoring Tools and Processes. International Journal of Artificial Intelligence in Education, 32, 1-3. https://doi.org/10.1007/s40593-021-00277-9
 
 <object data="https://blogs.memphis.edu/aolney/files/2021/08/2021-08-09-authoring-tools-special-issue-intro.pdf" type="application/pdf" width="100%" height="600px">
  
