@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: AI Podcast on Ask Alan!
 category: Category
-tags: ['research','datawhys', 'ldi', 'mofacts', 'data-science','machine-learning','service','outreach']
+tags: ['research','datawhys', 'ldi', 'mofacts', 'data-science','machine-learning','service','outreach', 'press']
 ---
 Great discussion about AI with Alan Crone on the *Ask Alan!* podcast.
 
