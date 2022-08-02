@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Paraphrasing Academic Text - A Study of Backtranslating Anatomy and Physiology with Transformers
 category: Category
-tags: ['publications','research','education-research','datawhys','mofacts','ldi','braintrust','conference-short','discourse', 'nlp']
+tags: ['publications','research','education-research','datawhys','mofacts','ldi','braintrust','conference-regular','discourse', 'nlp']
 ---
 
 Olney, A. M. (2021). Paraphrasing Academic Text: A Study of Back-Translating Anatomy and Physiology with Transformers. In I. Roll, D. McNamara, S. Sosnovsky, R. Luckin, & V. Dimitrova (Eds.), Proceedings of the 22nd International Conference on Artificial Intelligence in Education (pp. 279–284). Springer International Publishing.
