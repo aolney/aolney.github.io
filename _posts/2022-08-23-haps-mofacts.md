@@ -5,7 +5,8 @@ title: Online Tutoring System (MoFaCTS) for Anatomy and Physiology - Implementat
 category: Category
 tags: ['publications','research','education-research','article','mofacts', 'ldi','braintrust','discourse', 'nlp']
 ---
-Amanda M. Banker, Philip I. Pavlik, Andrew M. Olney, & Luke G. Eglington. (2022). Online Tutoring System (MoFaCTS) for Anatomy and Physiology: Implementation and Initial Impressions. HAPS Educator, 26(2), 44–54. https://doi.org/10.21692/haps.2022.012
+Banker, A. M., Pavlik, P. I., Olney, A. M., & Eglington, L. G. (2022). Online Tutoring System (MoFaCTS) for Anatomy and Physiology: Implementation and Initial Impressions. HAPS Educator, 26(2), 44–54. https://doi.org/10.21692/haps.2022.012
+
 
 <object data="https://blogs.memphis.edu/aolney/files/2022/08/Banker2022-HAPS.pdf" type="application/pdf" width="100%" height="600px">
  
