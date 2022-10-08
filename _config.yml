@@ -185,13 +185,13 @@ people:
        url: "https://www.researchgate.net/profile/John_Hollander"
 
 #jeff
- - pic: "/img/team/jeff.jpg"
-   link: "https://sites.google.com/view/jeffreyyarbroms"
-   name: Jeff Yarbro
-   position: CogSci Graduate Certificate
-   social:
-     - title: github
-       url: "https://github.com/imjeffhi4"
+# - pic: "/img/team/jeff.jpg"
+#   link: "https://sites.google.com/view/jeffreyyarbroms"
+#   name: Jeff Yarbro
+#   position: CogSci Graduate Certificate
+#   social:
+#     - title: github
+#       url: "https://github.com/imjeffhi4"
 
 #you here
  - pic: "/img/team/unclesam.jpg"

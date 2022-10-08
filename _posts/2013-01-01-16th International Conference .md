@@ -1,9 +1,9 @@
 ---
 layout: post
 section-type: post
-title: 16th International Conference on Artificial Intelligence in Education.
+title: 16th International Conference on Artificial Intelligence in Education - Local Organizer
 category: Category
-tags: [ 'service', 'reviewing', 'localorganizer' ]
+tags: [ 'service', 'reviewing', 'conferencechair' ]
 ---
-Serving as reviewer for 16th International Conference on Artificial Intelligence in Education, 2013.
+Serving as Local Organizer for 16th International Conference on Artificial Intelligence in Education, 2013.
 
