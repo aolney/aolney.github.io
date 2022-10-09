@@ -42,7 +42,7 @@ One part is a double walled exhaust pipe, I think designed for water heaters. Th
 
 The other part is the pipe/hose.  I think this is just metal dryer vent hose. Notice it has an adjustable ring to fit to the Gene Cafe. That only needs to be adjusted once to keep a decent fit and protect the pipe edges from fraying. Don't overtighten or you could break your roaster!
 
-![Gene Cafe Pipe ](https://blogs.memphis.edu/aolney/files/2019/10/gene-pipe-fitting.jpg"Exhaust Assembly Pipe")
+![Gene Cafe Pipe ](https://blogs.memphis.edu/aolney/files/2019/10/gene-pipe-fitting.jpg "Exhaust Assembly Pipe")
 
 The two pipe assembly pieces fit together easily. Quite a bit of the pipe is pushed onto the inner wall of the tube, where it is held in place by compression. Did I say I like compression?
 
