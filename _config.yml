@@ -16,9 +16,13 @@ url: "https://olney.ai"
 #baseurl: /personal-jekyll-theme
 baseurl: ""
 
-# Google tracking id to track your visitors
+# Google tracking id to track your visitors (Universal Analytics; deprecated July 2023)
 
 google-tracking-id: "UA-7398920-6"
+
+# Google tracking 4
+
+google-tracking-id-4: "G-9MHNJLGSLC"
 
 # Forces https everywhere in your website, except when you serve it locally
 # If you are not hosted on Github Pages, and your host doesn't support https
