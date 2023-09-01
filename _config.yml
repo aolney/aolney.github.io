@@ -178,15 +178,28 @@ people:
 #        url: "https://soundcloud.com/boobwindow"
 
 #john
- - pic: "/img/team/john-hollander.jpg"
-   link: https://sites.google.com/view/johnhollander/home"
-   name: John Hollander
-   position: "Ph.D. Candidate, Psychology"
-   social:
-     - title: google
-       url: "https://scholar.google.com/citations?user=gqDekX4AAAAJ&hl=en"
-     - title: random
-       url: "https://www.researchgate.net/profile/John_Hollander"
+  - pic: "/img/team/john-hollander.jpg"
+    link: https://sites.google.com/view/johnhollander/home"
+    name: John Hollander
+    position: "Ph.D. Candidate, Psychology"
+    social:
+      - title: google
+        url: "https://scholar.google.com/citations?user=gqDekX4AAAAJ&hl=en"
+      - title: random
+        url: "https://www.researchgate.net/profile/John_Hollander"
+
+#farshid
+  - pic: "/img/team/rosetta.jpg"
+    link: https://ffarzan.com/en
+    name: Farshid Farzan
+    position: "Ph.D. Candidate, Psychology"
+    social:
+      - title: "instagram"
+        url: "https://ffarzan.com/en/#farshiidfarzan"
+      - title: "facebook"
+        url: "https://m.facebook.com/public/Farshid-Farzan"
+      - title: "linkedin"
+        url: "https://ir.linkedin.com/in/farshid-farzan-264429122"
 
 #jeff
 # - pic: "/img/team/jeff.jpg"
@@ -198,17 +211,17 @@ people:
 #       url: "https://github.com/imjeffhi4"
 
 #you here
- - pic: "/img/team/unclesam.jpg"
-   link: "/category/2016/01/08/student-advice.html"
-   name: Your Name Here!
-   position: "General advice for students"
-   social:
-     - title: power-off
-       url: "/category/2016/01/08/student-advice.html"
+  - pic: "/img/team/unclesam.jpg"
+    link: "/category/2016/01/08/student-advice.html"
+    name: Your Name Here!
+    position: "General advice for students"
+    social:
+    - title: power-off
+      url: "/category/2016/01/08/student-advice.html"
 #former
- - pic: "/img/team/rosetta.jpg"
-   link: "/tags/advising.html"
-   name: Former Students
+  - pic: "/img/team/rosetta.jpg"
+    link: "/tags/advising.html"
+    name: Former Students
 
 
 #recruit-message: "If you are interested in working with me, please send me an email. [Here is some general advice for students](/category/2016/01/08/student-advice.html)"
