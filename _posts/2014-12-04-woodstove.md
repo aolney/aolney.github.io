@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Tapping a Woodstove
 category: Category
-tags: [ 'hardware', 'house' ]
+tags: [ 'hardware', 'diy' ]
 ---
 <!-- Place this tag in your head or just before your close body tag. -->
 <!-- <script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script> -->

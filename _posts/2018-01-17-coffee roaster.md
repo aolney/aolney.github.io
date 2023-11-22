@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Venting a Gene Cafe Coffee Roaster
 category: Category
-tags: [ 'hardware', 'house' ]
+tags: [ 'hardware', 'diy' ]
 ---
 
 A [Gene Cafe](https://www.sweetmarias.com/product/gene-cafe-roaster-red) is an excellent little coffee roaster I've used for years. A real advantage of this roaster if you don't have a garage is that you can vent the exhaust. Over the years, people have asked me exactly how I do this, so here's a post.

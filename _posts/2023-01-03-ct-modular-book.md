@@ -3,7 +3,7 @@ layout: post
 section-type: post
 title: Computational Thinking through Modular Sound Synthesis
 category: Category
-tags: ['publications','research','education-research','engagement','ldi','mofacts','music','books','datawhys','programming']
+tags: ['publications','research','education-research','engagement','ldi','mofacts','music','books','datawhys','programming','eurorack']
 ---
 
 I wrote a book bridging computational thinking and electronic music this past semester while on sabbatical.
