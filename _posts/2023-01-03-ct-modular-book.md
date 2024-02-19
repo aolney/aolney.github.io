@@ -29,7 +29,7 @@ The modular environment is directly embedded in the book, so users can open it w
 Hopefully, the book will be interesting and useful for both computational thinking and modular communities, and help spur more bridge-building between them in the future. 
 To read the book, please visit [the book's website](https://olney.ai/ct-modular-book).
 
-Andrew M. Olney. (2023). Computational Thinking through Modular Sound Synthesis.  https://doi.org/10.5281/zenodo.7502148s
+Andrew M. Olney. (2023). Computational Thinking through Modular Sound Synthesis.  https://doi.org/10.5281/zenodo.7502148
 
 [^1]: The timeline roughly, and coincidentally, matches the popularity of neural networks
 [^2]: Some modules, particularly digital modules, are configurable and store hidden parameters, e.g. parameters accessible using menu-based navigation on the module itself. 
