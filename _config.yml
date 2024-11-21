@@ -177,16 +177,16 @@ people:
 #      - title: soundcloud
 #        url: "https://soundcloud.com/boobwindow"
 
-#john
-  - pic: "/img/team/john-hollander.jpg"
-    link: https://sites.google.com/view/johnhollander/home"
-    name: John Hollander
-    position: "Ph.D. Candidate, Psychology"
-    social:
-      - title: google
-        url: "https://scholar.google.com/citations?user=gqDekX4AAAAJ&hl=en"
-      - title: random
-        url: "https://www.researchgate.net/profile/John_Hollander"
+# #john
+#   - pic: "/img/team/john-hollander.jpg"
+#     link: https://sites.google.com/view/johnhollander/home"
+#     name: John Hollander
+#     position: "Ph.D. Candidate, Psychology"
+#     social:
+#       - title: google
+#         url: "https://scholar.google.com/citations?user=gqDekX4AAAAJ&hl=en"
+#       - title: random
+#         url: "https://www.researchgate.net/profile/John_Hollander"
 
 #farshid
   - pic: "/img/team/farshid.jpg"
