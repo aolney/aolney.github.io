@@ -11,7 +11,7 @@ The DataWhys Project at The University of Memphis is developing a training progr
 
 Along the way, interns will work closely with faculty and graduate student mentors to develop their data science and professional skills, including how to research a topic, how to read a scientific paper, how to find a dataset, and how to present results. 
 
-Accepted interns will be paid $18/hr. and are expected to attend from 10–4:30pm, Monday through Friday from June 2, 2024 to July 3, 2025. The internship will take place at the Fedex Institute of Technology on the University of Memphis campus from June 2 to June 20 and will be remote for the remainder of the internship.
+Accepted interns will be paid $18/hr. and are expected to attend from 10am-4:30pm, Monday through Friday from June 2, 2025 to July 3, 2025. The internship will take place at the Fedex Institute of Technology on the University of Memphis campus from June 2 to June 20 and will be remote for the remainder of the internship.
 
 The program is limited to 15 students. We particularly encourage students from regional HBCUs, community colleges, and recent high school graduates. Interns must be 18 or older and eligible to work in the U.S. Support is available for interns who need temporary accommodation for the on-site portion of the internship as well as travel assistance.
 
