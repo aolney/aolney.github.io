@@ -1,7 +1,7 @@
 ---
 layout: post
 section-type: post
-title: JupyterLab Experimental Control Extension for JupyterLab 4.x
+title: JupyterLab Metadata Extension for JupyterLab 4.x
 category: Category
 tags: ['research','education-research','datawhys','data-science','machine-learning','programming','statistics']
 ---
