@@ -5,7 +5,7 @@ title: Concluding DataWhys Summer Internship Program 2024
 category: Category
 tags: ['research','education-research','datawhys', 'data-science','machine-learning','programming','statistics','service','outreach']
 ---
-Today we concluded our fourth year of a summer internship program in data science - the first year we held it in person!
+Today we concluded our fifth year of a summer internship program in data science - the first year we held it in person!
 
 Because of COVID, we moved the internship online in [2020](https://olney.ai/category/2020/07/24/internship.html), and we kept it virtual through 2023 because we felt that it increased access.
 However we were concerned with motivation with the online format. Some interns seemed to chronically have connectivity problems beyond what might be expected several years into the pandemic.
