@@ -5,7 +5,8 @@ title: Dataset Personalization Methods based on LLMs for Data Science Education 
 category: Category
 tags: ['publications','research','education-research','datawhys','conference-short','engagement', 'nlp','data-science']
 ---
-**Accepted at L@S2025**
+
+Barboza, L., Farzan, F., & Olney, A. M. (2025). Dataset Personalization Methods based on LLMs for Data Science Education: A Comparative Study of Rescaling and Sampling Approaches. Proceedings of the Twelfth ACM Conference on Learning @ Scale, 261–265. https://doi.org/10.1145/3698205.3733936
 
 <object data="https://blogs.memphis.edu/aolney/files/2025/07/Personalization_LaScale25.pdf" type="application/pdf" width="100%" height="600px">
  
