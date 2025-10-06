@@ -22,3 +22,5 @@ checkedURLs.txt
 shell.log
 .ipynb_checkpoints/*
 .jekyll-cache/
+
+ignore/

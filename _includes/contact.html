@@ -7,7 +7,8 @@
 
       {{ page.content | markdownify }}
 
-      {% if site.email %}
+      <!-- uncomment to restore email contact   -->
+      <!-- {% if site.email %}
         {% if site.email contains '@' %}
           {% assign newemail = site.email | split: '@' %}
             <p style="text-align:center">
@@ -26,7 +27,7 @@
         {% else %}
           <p style="text-align:center"><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
         {% endif %}
-      {% endif %}
+      {% endif %} -->
 
       <!-- WE WANT SPECIAL STYLE FOR THIS PAGE {\% include social-buttons.html %\} -->
 	<div style="display:table;margin: 0 auto">

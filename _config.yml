@@ -38,7 +38,7 @@ lang: "en"
 author: "Andrew M. Olney"
 title: "{ Andrew M. Olney }"
 description: "Blog and website of Andrew M. Olney"
-keywords: "Olney, linguistics, computation, education, tutoring"
+keywords: "Olney, AI, education, music, farming"
 favicon: "/img/favicon.ico"
 404-img: "/img/labtocat.png"
 
@@ -55,7 +55,8 @@ background-img: ""
 # Dynamic Text on the Header #
 ##############################
 
-dynamic-typing: True
+# Set to True to activate
+dynamic-typing: False
 shuffle: True # Shuffle the lines.
 loop: True
 loop-count: False # Set False for infinite loop, or set any number for finite loop.
@@ -97,16 +98,17 @@ post-preview-words: 96
 
 paginate: 5
 
-email-share: True
-fb-share: True
-twitter-share: True
-linkedin-share: True
-reddit-share: True
-google-plus-share: True
-tumblr-share: True
-pinterest-share: True
-pocket-share: True
-vkontakte-share: True
+# Set to True to enable
+email-share: False
+fb-share: False
+twitter-share: False
+linkedin-share: False
+reddit-share: False
+google-plus-share: False
+tumblr-share: False
+pinterest-share: False
+pocket-share: False
+vkontakte-share: False
 
 # 2025: dropped disqus b/c of tracking
 # disqus-shortname: "andrewolney"
@@ -118,17 +120,26 @@ syntax-highlight: True
 ############
 
 events:
+  - image: "/img/timeline/agrarian_atelier.jpg"
+    date: "2025 - "
+    description: "Agrarian Atelier"
+    page: "agrarian-atelier.html"
   - image: "/img/timeline/memphis1.png"
-    date: "2001 - 2006"
-    description: "PhD Computer Science, University of Memphis"
-  - image: "/img/timeline/sussex.jpg"
-    date: "1998 - 2001"
-    description: "MSc Evolutionary and Adaptive Systems, University of Sussex"
-  - image: "/img/timeline/ucl.png"
-    date: "1995 - 1998"
-    description: "BA Linguistics with Cognitive Science, University College London"
+    date: "2006 - 2025"
+    description: "Professor, University of Memphis"
+    page: "professor.html"
+  # decided educational timeline is cheesy
+  # - image: "/img/timeline/memphis1.png"
+  #   date: "2001 - 2006"
+  #   description: "PhD Computer Science, University of Memphis"
+  # - image: "/img/timeline/sussex.jpg"
+  #   date: "1998 - 2001"
+  #   description: "MSc Evolutionary and Adaptive Systems, University of Sussex"
+  # - image: "/img/timeline/ucl.png"
+  #   date: "1995 - 1998"
+  #   description: "BA Linguistics with Cognitive Science, University College London"
 
-# First image of the Timeline
+# First image of the Timeline (disabled)
 
 timeline-img: "/img/timeline/start.png"
 
@@ -190,17 +201,17 @@ people:
 #         url: "https://www.researchgate.net/profile/John_Hollander"
 
 #farshid
-  - pic: "/img/team/farshid.jpg"
-    link: https://ffarzan.com/en
-    name: Farshid Farzan
-    position: "Ph.D. Candidate, Psychology"
-    social:
-      - title: "instagram"
-        url: "https://ffarzan.com/en/#farshiidfarzan"
-      - title: "facebook"
-        url: "https://m.facebook.com/public/Farshid-Farzan"
-      - title: "linkedin"
-        url: "https://ir.linkedin.com/in/farshid-farzan-264429122"
+  # - pic: "/img/team/farshid.jpg"
+  #   link: https://ffarzan.com/en
+  #   name: Farshid Farzan
+  #   position: "Ph.D. Candidate, Psychology"
+  #   social:
+  #     - title: "instagram"
+  #       url: "https://ffarzan.com/en/#farshiidfarzan"
+  #     - title: "facebook"
+  #       url: "https://m.facebook.com/public/Farshid-Farzan"
+  #     - title: "linkedin"
+  #       url: "https://ir.linkedin.com/in/farshid-farzan-264429122"
 
 #jeff
 # - pic: "/img/team/jeff.jpg"
@@ -268,12 +279,11 @@ fourofour-img: "/img/labtocat.png"
 # Sections shown in the index page
 
 pages_list:
-  About: 'about'
-  Work: 'work'
+  # About: 'about'
+  # Work: 'work'
+  Timeline: 'timeline'
   Blog: 'latest-post'
-# Have an idea to show development as scientist (e.g. RNN during UG) but not a lot of time now
-#  Timeline: 'timeline'
-  Students: 'students'
+  # Students: 'students'
   Contact: 'contact'
 
 # Exclusion list from the generated _site

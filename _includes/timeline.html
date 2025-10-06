@@ -18,6 +18,7 @@
           {% endcapture %}
 
           <li class="{{ class }}">
+            <a href="{{site.baseurl}}/{{ event.page }}" class="page-scroll">
             <div class="timeline-image">
               <img class="img-circle img-responsive" src="{{site.baseurl}}{{ event.image }}" alt="">
             </div>
@@ -29,14 +30,16 @@
                 {{ event.description | markdownify }}
               </div>
             </div>
+            </a>
           </li>
         {% endfor %}
 
-        <li class="timeline-inverted">
+        <!-- remove start image -->
+        <!-- <li class="timeline-inverted">
           <div class="timeline-image">
             <img class="img-circle img-responsive" src="{{site.baseurl}}{{ site.timeline-img }}" alt="">
           </div>
-        </li>
+        </li> -->
       </ul>
     </div>
   </div>
