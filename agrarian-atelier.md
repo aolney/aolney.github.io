@@ -12,5 +12,5 @@ Farming & Production (Pecans & Honey):
 
 Atelier & Creation (Electronic Music & Woodworking):
 
-- Compose and produce original electronic music, with an emphasis on incorporating sounds and rhythms inspired by the farm environment.
-- Design, build, and finish handcrafted wooden items, such as furniture, art pieces, and musical instruments, using wood sourced from the farm when possible.
+- [Compose and produce original electronic music](https://www.youtube.com/@andrewolney/videos), with an emphasis on incorporating sounds and rhythms inspired by the farm environment.
+- [Design, build, and finish handcrafted wooden items](https://olney.ai/tags/hardware.html), such as furniture, art pieces, and musical instruments, using wood sourced from the farm when possible.
