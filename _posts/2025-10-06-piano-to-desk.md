@@ -27,7 +27,8 @@ Pictures below show my process.
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/5et1fQF2U7oSzPwk7"
   data-title="2025-09-29 piano to desk · Sep 19 – 29 📸"
-  data-description="Shared album · Tap to view!">
+  data-description="Shared album · Tap to view!"
+  data-delay="3">
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMb7OKwmwbXu_5kmBkUo5sDLVYa0aalNh8CzLuPM0481tgS2C4hgbJmjnqCycZYq_1BD8QKTM10rKL3PUKZhWwKf6tfJlv_YfziOBF4ldtP0EnKBknE=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczM-zHdi91wk9ELGlfHVbqR5n-xE3wLgoMZc3GW_qtAd47FfsYU8lLeK3Do5kGfTcn0CiyOSoBNMqNOpW-J6510uEFioWhpnvYNMDMDjLOsLA-JbCt0x=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMYRXwGDXgrMDmay0Y0yQYLcYw0nKezIVOiUZ2281m870x7wtc3M4n0TZdjhF56QnojYdFzAkbhAidm-3nlq2Bl_IMqlo4Ub-WAMdPntYDXNXgK6YSo=w1920-h1080"></object>
