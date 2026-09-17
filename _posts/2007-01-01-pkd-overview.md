@@ -19,11 +19,8 @@ The PKD Android is a conversational portrait of [Philip K. Dick](https://www.phi
 
 Of course it wasn't perfect, but a [lot of people got excited about sitting down and talking to a life sized android](tags/press.html).
 
-Here is a little video that we shot that I really like:
+[Here is a little video that we shot that I really like](/zip/PKDpics.zip) of various stages of construction.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/12ZMPO0Vig8?start=287" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-And a bunch of [pictures](/zip/PKDpics.zip) of various stages of construction.
 
 <iframe title="YouTube video player" class="youtube-player" type="text/html" src="//www.youtube.com/embed/fkE6RBlfbXA?rel=0&amp;wmode=opaque" frameborder="0" allowFullScreen="true" width="425" height="355"></iframe>
 
