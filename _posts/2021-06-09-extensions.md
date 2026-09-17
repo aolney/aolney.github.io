@@ -11,10 +11,10 @@ Olney, A. M., & Fleming, S. D. (2021). JupyterLab Extensions for Blocks Programm
 [Extensions and links to code on NPM](https://www.npmjs.com/~aolney).
 
 
-<object data="https://blogs.memphis.edu/aolney/files/2021/12/Olney2021-blockly-jupyterlab-data-CSEDM_8.pdf" type="application/pdf" width="100%" height="600px">
+<object data="/pdf/Olney2021-blockly-jupyterlab-data-CSEDM_8.pdf" type="application/pdf" width="100%" height="600px">
  
   <p>It appears you don't have a PDF plugin for this browser.
-  No biggie... you can <a href="https://blogs.memphis.edu/aolney/files/2021/12/Olney2021-blockly-jupyterlab-data-CSEDM_8.pdf">click here to
+  No biggie... you can <a href="/pdf/Olney2021-blockly-jupyterlab-data-CSEDM_8.pdf">click here to
   download the PDF file.</a></p>
   
 </object>

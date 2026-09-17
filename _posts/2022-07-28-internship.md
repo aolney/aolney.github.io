@@ -15,7 +15,7 @@ Our major format change this year was the expansion of the "programming bootcamp
 
 Like last year, the interns had 2 weeks for projects sourced from community partners. We were fortunate this year to have very clean datasets donated, so 2 weeks for the projects was fairly reasonable (though an extra week could have been used well). One project focused on nonprofit donations and the other on racial inequities in traffic stops. Interns on both teams were really motivated, and I was very proud of what they accomplished. Here is a COVID-style group photo I hacked up!
 
-![A simulated group photo, COVID-style](https://blogs.memphis.edu/aolney/files/2022/08/2022-intern-fake-group-photo.jpg)
+![A simulated group photo, COVID-style](/img/2022-intern-fake-group-photo.jpg)
 
 
 The DataWhys Project and internship are supported by the National

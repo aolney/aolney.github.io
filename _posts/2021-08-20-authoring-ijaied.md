@@ -11,10 +11,10 @@ Our short introduction below describes the four papers in the special issue.
 
 Olney, A. M., Gilbert, S. B., & Rivers, K. (2021). Preface to the Special Issue on Creating and Improving Adaptive Learning: Smart Authoring Tools and Processes. International Journal of Artificial Intelligence in Education, 32, 1-3. https://doi.org/10.1007/s40593-021-00277-9
 
-<object data="https://blogs.memphis.edu/aolney/files/2021/08/2021-08-09-authoring-tools-special-issue-intro.pdf" type="application/pdf" width="100%" height="600px">
+<object data="/pdf/2021-08-09-authoring-tools-special-issue-intro.pdf" type="application/pdf" width="100%" height="600px">
  
   <p>It appears you don't have a PDF plugin for this browser.
-  No biggie... you can <a href="https://blogs.memphis.edu/aolney/files/2021/08/2021-08-09-authoring-tools-special-issue-intro.pdf">click here to
+  No biggie... you can <a href="/pdf/2021-08-09-authoring-tools-special-issue-intro.pdf">click here to
   download the PDF file.</a></p>
   
 </object>

@@ -12,10 +12,10 @@ Yarbro, J. T., & Olney, A. M. (2021). WikiMorph: Learning to Decompose Words int
 
 [GitHub repo](https://github.com/imjeffhi4/word-breakdown)
 
-<object data="https://blogs.memphis.edu/aolney/files/2021/06/Yarbro2021-aied-wikimorph.pdf" type="application/pdf" width="100%" height="600px">
+<object data="/pdf/Yarbro2021-aied-wikimorph.pdf" type="application/pdf" width="100%" height="600px">
  
   <p>It appears you don't have a PDF plugin for this browser.
-  No biggie... you can <a href="https://blogs.memphis.edu/aolney/files/2021/06/Yarbro2021-aied-wikimorph.pdf">click here to
+  No biggie... you can <a href="/pdf/Yarbro2021-aied-wikimorph.pdf">click here to
   download the PDF file.</a></p>
   
 </object>

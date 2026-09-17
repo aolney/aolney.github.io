@@ -10,10 +10,10 @@ Olney, A. M. (2021). Paraphrasing Academic Text: A Study of Back-Translating Ana
 
 [Code for docker image on GitHub](https://github.com/aolney/paraphrase-service).
 
-<object data="https://blogs.memphis.edu/aolney/files/2021/06/Olney2021-aied-paraphrase.pdf" type="application/pdf" width="100%" height="600px">
+<object data="/pdf/Olney2021-aied-paraphrase.pdf" type="application/pdf" width="100%" height="600px">
  
   <p>It appears you don't have a PDF plugin for this browser.
-  No biggie... you can <a href="https://blogs.memphis.edu/aolney/files/2021/06/Olney2021-aied-paraphrase.pdf">click here to
+  No biggie... you can <a href="/pdf/Olney2021-aied-paraphrase.pdf">click here to
   download the PDF file.</a></p>
   
 </object>

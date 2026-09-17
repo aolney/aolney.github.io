@@ -17,7 +17,7 @@ Despite appearances, pianos have very little good/real wood in them but are comp
 I would suggest that anyone wanting to do this borrow a piano trolley that flips the piano, remove the cast iron plate (after removing everything else) and leave the back on. I wanted the extra space of the back, but removing the back means adding back in a lot of structural support.
 I used four 2x4s to create bracing at top/bottom as well as extend the keybed all the way back.
 
-There are some great videos on YouTube for breaking down a piano ([A](https://youtu.be/D30JGc1x6HE?si=VRg1J8EqjNycKdFr),[B](https://youtu.be/VSHaNbJN0_A?si=8huYvuQ6umcoxk4P),[C](https://youtu.be/F6ZTn7EQfBY?si=3ecNX28Lz2s1dPxZ),[D](https://youtu.be/M-JSOBB69oo?si=Aqam1tKg3uoV2vlh)).
+There are some great videos on YouTube for breaking down a piano ([A](https://youtu.be/D30JGc1x6HE),[B](https://youtu.be/VSHaNbJN0_A),[C](https://youtu.be/F6ZTn7EQfBY),[D](https://youtu.be/M-JSOBB69oo)).
 You definitely want wrap around eye protection, gloves, and if you are removing the pins, a big corded drill and a rachet set.
 
 Pictures below show my process.

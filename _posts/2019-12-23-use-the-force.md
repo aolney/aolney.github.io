@@ -95,7 +95,7 @@ Things are pretty straightforward.
 We have the Elmish GUI and the Cylon interop.
 This is the UI the code presents:
 
-![screenshot of demo interface](https://cpb-us-w2.wpmucdn.com/blogs.memphis.edu/dist/d/2954/files/2019/12/sphero-mindwave-demo-screenshot-web.png)
+![screenshot of demo interface](/img/sphero-mindwave-demo-screenshot-web.png)
 
 The main elements:
 

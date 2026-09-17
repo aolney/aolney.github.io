@@ -34,7 +34,7 @@ It was an honor and a pleasure working with such talented students.
 A COVID-era "group photo" is below (put together by Ph.D. student Linda Payne).
 Hopefully we will be face to face next year!
 
-![A simulated group photo, COVID-style](https://blogs.memphis.edu/aolney/files/2020/09/Summer2020interns_group_photo_LPayne.jpggroup.jpg)
+![A simulated group photo, COVID-style](/img/Summer2020interns_group_photo_LPayne.jpggroup.jpg)
 
 The DataWhys Project and internship are supported by the National
 Science Foundation through Grant 1918751 for to the University of

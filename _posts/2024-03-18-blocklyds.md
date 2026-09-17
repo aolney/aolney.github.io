@@ -10,10 +10,10 @@ Barboza, L., Ferreira Mello, R., Souza Teixeira, E., & Olney, A. M. (2024). Visu
 
 <!-- 
 
-<object data="https://blogs.memphis.edu/aolney/files/2021/03/2021-olney-sigcse-camera-ready.pdf" type="application/pdf" width="100%" height="600px">
+<object data="/pdf/2021-olney-sigcse-camera-ready.pdf" type="application/pdf" width="100%" height="600px">
  
   <p>It appears you don't have a PDF plugin for this browser.
-  No biggie... you can <a href="https://blogs.memphis.edu/aolney/files/2021/03/2021-olney-sigcse-camera-ready.pdf">click here to
+  No biggie... you can <a href="/pdf/2021-olney-sigcse-camera-ready.pdf">click here to
   download the PDF file.</a></p>
   
 </object> -->

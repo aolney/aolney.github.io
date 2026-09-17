@@ -5,7 +5,7 @@ title: AutoTutor Project Overview
 category: Category
 tags: ['research','its','autotutor','nlp','semantics','discourse','education-research','agents','project-overviews']
 ---
-![pre 2001 autotutor image](https://blogs.memphis.edu/aolney/files/2019/10/marco.jpg)
+![pre 2001 autotutor image](/img/marco.jpg)
 
 [Click here for all AutoTutor posts](/tags/autotutor.html)
 
@@ -17,6 +17,8 @@ People improve by about a letter grade after interacting with AutoTutor in our e
 
 The AutoTutor web site is [here](https://www.autotutor.org/)
 
-A demo video of an interactive session is [here](https://blogs.memphis.edu/aolney/files/2019/10/ATInteractive.avi)
+Here is a demo video of an interactive session:
 
-![2002 autotutor image](https://blogs.memphis.edu/aolney/files/2019/10/atinterface.jpg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ZDivTscX4j0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+![2002 autotutor image](/img/atinterface.jpg)
