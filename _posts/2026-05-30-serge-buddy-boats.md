@@ -32,7 +32,7 @@ Pictures below show my process.
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/9YiE9W4acKQrDnwp9"
   data-title="2026-05-30-serge-buddy-boats · May 28 – Jun 26 📸"
-  data-description="Shared album · Tap to view!">
+  data-description="Shared album · Tap to view!" data-delay="2">
   <object data="https://lh3.googleusercontent.com/pw/AP1GczMOiY6IbC8wAkwKuryfY0wmQoWzWPU4iHgJglw50ncEb9yBoIumIViAWWtwVEpssut6oATkg_HKR76Y2CGx-_RtBpFOJm0kcpUDSMpH-oQ3x9vk9z-w=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczOOSfCI39Yf7I6N2p2fnGMSI3_ThZlbmUDZHBdpOGMtMveFK1N39Rzmo4ytA9AEJokz5eghpW8sSDXJv3BBJPyGcp3Qr3xfgUhlB4ciOpg3sczf3L10=w1920-h1080"></object>
   <object data="https://lh3.googleusercontent.com/pw/AP1GczNx8dMGnPPXwg6oSdK8sGqXKUFO1voHOQl1ok_1oC00cRB1IDramqpJiY0KSqUAOG1P19-Qf84Atl96JbIDDUYUwrLPmnpSLrOEn8snbO45c_YdDRDq=w1920-h1080"></object>
